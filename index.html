@@ -313,18 +313,18 @@
 
             // Add badge based on sellOrRent
             let badgeClass;
-            if (property.sellOrRent === 'sell') {
+            if (property.sellOrRen.toLowerCase() === 'sell') {
                 badgeClass = 'badge sell';
-            } else if (property.sellOrRent === 'rent') {
+            } else if (property.sellOrRent.toLowerCase() === 'rent') {
                 badgeClass = 'badge rent';
             } else {
                 badgeClass = '';
             }
 
             let badgeText;
-            if (property.sellOrRent === 'sell') {
+            if (property.sellOrRent.toLowerCase() === 'sell') {
                 badgeText = 'For Sell';
-            } else if (property.sellOrRent === 'rent') {
+            } else if (property.sellOrRent.toLowerCase() === 'rent') {
                 badgeText = 'For Rent';
             } else {
                 badgeClass = '';
