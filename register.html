@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .btn-custom {
+            border-color: #615eff;
+            color: #615eff;
+        }
+        .btn-custom:hover {
+            background-color: #615eff;
+            color: white;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200 flex justify-center items-center min-h-screen">
+    <div class="bg-gray-800 p-6 rounded-lg shadow-lg w-full max-w-lg">
+        <h2 class="text-2xl font-bold text-center mb-6">Registration Form</h2>
+        
+        <div id="alertMessage" class="hidden p-4 mb-6 rounded border border-red-700 text-red-700 text-center font-semibold"></div>
+        
+        <!-- Email Verification Box -->
+        <div id="emailVerificationBox" class="mb-6">
+            <h3 class="text-lg font-semibold mb-4">Step 1: Email Verification</h3>
+            <form id="emailVerificationForm">
+                <div class="mb-4">
+                    <label for="email" class="block text-sm font-medium mb-2">Email</label>
+                    <div class="flex gap-2">
+                        <input type="email" id="email" name="email" class="flex-1 p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                        <button type="button" id="sendOtp" class="btn-custom px-4 py-2 border font-bold rounded focus:outline-none focus:ring-2 disabled:opacity-50" disabled>Send OTP</button>
+                    </div>
+                </div>
+                <div class="mb-4">
+                    <label for="otp" class="block text-sm font-medium mb-2">OTP</label>
+                    <div class="flex gap-2">
+                        <input type="text" id="otp" name="otp" class="flex-1 p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" disabled>
+                        <button type="button" id="verifyOtp" class="btn-custom px-4 py-2 border font-bold rounded focus:outline-none focus:ring-2 disabled:opacity-50" disabled>Verify OTP</button>
+                    </div>
+                </div>
+            </form>
+            <div class="text-sm text-yellow-400" id="resendTimer"></div>
+        </div>
+
+        <!-- Registration Details Box -->
+        <div id="registrationDetailsBox" class="hidden">
+            <h3 class="text-lg font-semibold mb-4">Step 2: Enter Your Details</h3>
+            <form id="registrationForm">
+                <div class="mb-4">
+                    <label for="firstName" class="block text-sm font-medium mb-2">First Name</label>
+                    <input type="text" id="firstName" name="firstName" class="w-full p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                </div>
+                <div class="mb-4">
+                    <label for="lastName" class="block text-sm font-medium mb-2">Last Name</label>
+                    <input type="text" id="lastName" name="lastName" class="w-full p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                </div>
+                <div class="mb-4">
+                    <label for="phoneNumber" class="block text-sm font-medium mb-2">Phone Number</label>
+                    <input type="tel" id="phoneNumber" name="phoneNumber" class="w-full p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                </div>
+                <div class="mb-4">
+                    <label for="city" class="block text-sm font-medium mb-2">City</label>
+                    <input type="text" id="city" name="city" class="w-full p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                </div>
+                <div class="mb-4">
+                    <label for="gender" class="block text-sm font-medium mb-2">Gender</label>
+                    <select id="gender" name="gender" class="w-full p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                        <option value="" disabled selected>Select</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="mb-4">
+                    <button type="submit" id="registerButton" class="btn-custom w-full px-4 py-2 border font-bold rounded focus:outline-none focus:ring-2">Register</button>
+                </div>
+            </form>
+            <div class="text-sm text-red-400" id="registrationMessage"></div>
+        </div>
+    </div>
+
+    <script>
+        const alertMessage = document.getElementById("alertMessage");
+        
+        const emailInput = document.getElementById('email');
+        const sendOtpButton = document.getElementById('sendOtp');
+        const otpInput = document.getElementById('otp');
+        const verifyOtpButton = document.getElementById('verifyOtp');
+        const emailVerificationBox = document.getElementById('emailVerificationBox');
+        const registrationDetailsBox = document.getElementById('registrationDetailsBox');
+
+        // Enable Send OTP button if email is valid
+        emailInput.addEventListener('input', () => {
+            const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            sendOtpButton.disabled = !emailPattern.test(emailInput.value);
+        });
+
+        // Send OTP and start the resend timer
+        sendOtpButton.addEventListener('click', async () => {
+            const email = emailInput.value;
+
+            const response = await fetch('/check-email', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ email }),
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                if (data.message === 'Email is already registered') {
+                    showAlert("Email is already registered");
+                } else if (data.message === 'Email is not registered') {
+                    const otpResponse = await fetch('/registraion/send-otp', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ email }),
+                    });
+                    if (otpResponse.ok) {
+                        showAlert("OTP sent successfully", "success");
+                        otpInput.disabled = false;
+                        verifyOtpButton.disabled = false;
+
+                        // Change button text to "Resend OTP" and disable it for 60 seconds
+                        sendOtpButton.textContent = "Resend OTP";
+                        sendOtpButton.disabled = true;
+                        startResendTimer(60); // Start the timer for 60 seconds
+                    } else {
+                        showAlert("Failed to send OTP");
+                    }
+                }
+            } else {
+                showAlert("Failed to check email");
+            }
+        });
+
+        // Verify OTP
+        verifyOtpButton.addEventListener('click', async () => {
+            const email = emailInput.value;
+            const otp = otpInput.value;
+
+            const response = await fetch('/regerster/verify-otp', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ email, otp }),
+            });
+
+            if (response.ok) {
+                const data = await response.text();
+                if (data === "OTP verified successfully") {
+                    showAlert("OTP verified successfully", "success");
+                    emailVerificationBox.classList.add('hidden');
+                    registrationDetailsBox.classList.remove('hidden');
+                } else {
+                    showAlert("Invalid OTP");
+                }
+            } else {
+                showAlert("Failed to verify OTP");
+            }
+        });
+
+        // Handle Registration Form Submission
+        document.getElementById('registrationForm').addEventListener('submit', async (event) => {
+            event.preventDefault();
+
+            const formData = {
+                firstName: document.getElementById('firstName').value,
+                lastName: document.getElementById('lastName').value,
+                email: emailInput.value,
+                phoneNumber: document.getElementById('phoneNumber').value,
+                city: document.getElementById('city').value,
+                gender: document.getElementById('gender').value,
+            };
+
+            const response = await fetch('/register', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(formData),
+            });
+
+            if (response.ok) {
+                const data = await response.text();
+                if (data === "Registration successful") {
+                    window.location.href = "/login"; // Redirect to login page
+                } else {
+                    showAlert(data);
+                }
+            } else {
+                showAlert("Registration failed");
+            }
+        });
+
+        // Function to start the resend timer
+        function startResendTimer(seconds) {
+            let remainingTime = seconds;
+            const resendTimer = document.getElementById('resendTimer');
+            resendTimer.textContent = `Resend OTP in ${remainingTime} seconds`;
+
+            const interval = setInterval(() => {
+                remainingTime--;
+                if (remainingTime > 0) {
+                    resendTimer.textContent = `Resend OTP in ${remainingTime} seconds`;
+                } else {
+                    resendTimer.textContent = '';
+                    sendOtpButton.disabled = false;
+                    clearInterval(interval);
+                }
+            }, 1000);
+        }
+
+        // Function to show alert messages
+        function showAlert(message, type = "error") {
+            alertMessage.classList.remove("hidden");
+            alertMessage.textContent = message;
+            if (type === "success") {
+                alertMessage.classList.remove("border-red-700", "text-red-700");
+                alertMessage.classList.add("border-green-700", "text-green-700");
+            } else {
+                alertMessage.classList.remove("border-green-700", "text-green-700");
+                alertMessage.classList.add("border-red-700", "text-red-700");
+            }
+        }
+    </script>
+</body>
+</html>

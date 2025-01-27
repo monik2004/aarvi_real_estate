@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aarvi Real Estate</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.6.4/nouislider.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.6.4/nouislider.min.js"></script>
+    <style>
+        .badge {
+            position: absolute;
+            top: 16px;
+            right: -33px;
+            background: rgba(255, 0, 0, 0.5);
+            color: #fff;
+            padding: 3px 30px;
+            font-size: 1rem;
+            transform: rotate(45deg);
+            font-weight: bold;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .badge.sell {
+            background: rgba(0, 128, 0, 0.5); /* Transparent green background for sell */
+        }
+        .badge.rent {
+            background: rgba(0, 0, 255, 0.5); /* Transparent blue background for rent */
+        }
+        .range-slider-container {
+            width: 100%;
+            max-width: 300px; /* Adjusted this value to make the range slider smaller */
+            margin: 20px auto; /* Added margin from top */
+            padding: 0 15px; /* Padding to prevent handles from going out of bounds */
+            box-sizing: border-box; /* Ensure padding is included in total width */
+        }
+        /* Custom style for the noUiSlider */
+        .noUi-target {
+            background: #f0f0f0; /* Lighter background color */
+            border-radius: 10px; /* Rounded corners for modern look */
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+            position: relative;
+        }
+        .noUi-connect {
+            background: linear-gradient(90deg, #8080ff, #4d4dff); /* Lighter gradient color */
+            border-radius: 10px; /* Rounded corners for connected part */
+        }
+        .noUi-horizontal .noUi-handle {
+            width: 24px;
+            height: 24px;
+            border-radius: 50%; /* Circular handles */
+            background: #ffffff;
+            border: 3px solid ;
+            cursor: pointer;
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+            transition: transform 0.4s; /* Slower transition for smoother movement */
+            padding-right: 15px;
+        }
+        .noUi-horizontal .noUi-handle:hover {
+            transform: scale(1.3); /* Enlarge on hover */
+        }
+        .noUi-horizontal .noUi-handle:before,
+        .noUi-horizontal .noUi-handle:after {
+            display: none;
+        }
+        .noUi-tooltip {
+            display: block;
+            position: absolute;
+            background: #ff4d4d; /* Match handle border color */
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            white-space: nowrap;
+            transform: translateX(-50%);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        .noUi-handle-lower .noUi-tooltip {
+            top: 35px; /* Adjusted for better visibility */
+        }
+        .noUi-handle-upper .noUi-tooltip {
+            bottom: 35px; /* Adjusted for better visibility */
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-100 transition duration-300">
+    <!-- Navbar -->
+    <nav class="bg-gray-800 shadow-lg p-4 sticky top-0 z-10">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="text-white text-2xl font-bold">Aarvi Real Estate</div>
+            <div class="hidden md:flex space-x-6">
+                <a href="#about" class="text-white hover:text-blue-400 transition duration-300">About Us</a>
+                <a href="#contact" class="text-white hover:text-blue-400 transition duration-300">Contact Us</a>
+                <a href="/ListMyProperty" id="listMyPropertyLink" class="text-white hover:text-blue-400 transition duration-300 hidden">List My Property</a>
+            </div>
+            <div class="text-white flex items-center">
+                <span id="userName" class="mr-4"></span>
+                <a href="/login" id="loginButton" class="hover:text-blue-400 transition duration-300">Login</a>
+                <a href="/logout" id="logoutButton" class="hover:text-red-400 transition duration-300 hidden">Logout</a>
+            </div>
+            <!-- Mobile Menu Button -->
+            <button id="menuButton" class="md:hidden text-white focus:outline-none">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                </svg>
+            </button>
+        </div>
+        <!-- Mobile Menu -->
+        <div id="mobileMenu" class="hidden md:hidden">
+            <a href="#about" class="block text-white hover:text-blue-400 transition duration-300 py-2">About Us</a>
+            <a href="#contact" class="block text-white hover:text-blue-400 transition duration-300 py-2">Contact Us</a>
+            <a href="/ListMyProperty" id="mobileListMyPropertyLink" class="block text-white hover:text-blue-400 transition duration-300 py-2 hidden">List My Property</a>
+            <a href="/login" class="block text-white hover:text-blue-400 transition duration-300 py-2">Login</a>
+            <a href="/logout" class="block text-white hover:text-red-400 transition duration-300 py-2 hidden">Logout</a>
+        </div>
+    </nav>
+    <!-- Sorting Dropdowns -->
+    <div class="container mx-auto p-4">
+        <div class="flex justify-end mb-4 space-x-4">
+            <select id="sortCategory" class="bg-gray-800 text-white px-4 py-2 rounded-lg">
+                <option value="all">All Categories</option>
+                <option value="Residential">Residential</option>
+                <option value="Commercial">Commercial</option>
+                <!-- Add more categories as needed -->
+            </select>
+            <select id="sortSellOrRent" class="bg-gray-800 text-white px-4 py-2 rounded-lg">
+                <option value="all">All</option>
+                <option value="sell">Sell</option>
+                <option value="rent">Rent</option>
+            </select>
+            <div class="flex flex-col items-center range-slider-container">
+                <div id="valueRange" class="bg-gray-800 text-white rounded-lg w-full"></div>
+            </div>
+            <div class="flex items-center space-x-2">
+                <input type="number" id="minValue" class="bg-gray-800 text-white px-4 py-2 rounded-lg" placeholder="Min Value" min="0">
+                <input type="number" id="maxValue" class="bg-gray-800 text-white px-4 py-2 rounded-lg" placeholder="Max Value" min="0">
+                <button id="filterButton" class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300">Filter</button>
+            </div>
+        </div>
+
+        <!-- Property Listings -->
+        <h1 class="text-3xl font-bold text-center my-6">Available Properties</h1>
+        <div id="propertyContainer" class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6"></div>
+
+        <!-- Pagination Controls -->
+        <div class="flex justify-center items-center mt-6 space-x-2">
+            <button id="prevPage" class="px-4 py-2 bg-gray-700 text-white rounded-lg disabled:opacity-50" disabled>Previous</button>
+            <div id="paginationNumbers" class="flex space-x-2"></div>
+            <button id="nextPage" class="px-4 py-2 bg-gray-700 text-white rounded-lg">Next</button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wnumb/1.1.0/wNumb.min.js"></script>
+    <script>
+        let properties = [];
+        let currentPage = 1;
+        const propertiesPerPage = 24;
+        let minAproxValue = 0;
+        let maxAproxValue = 100;
+    
+        async function checkLoginStatus() {
+            try {
+                const response = await fetch('/check-session');
+                const data = await response.json();
+                if (data.loggedIn) {
+                    document.getElementById("loginButton").classList.add("hidden");
+                    document.getElementById("logoutButton").classList.remove("hidden");
+                    document.getElementById("userName").textContent = data.userName;
+                    document.getElementById("listMyPropertyLink").classList.remove("hidden");
+                    document.getElementById("mobileListMyPropertyLink").classList.remove("hidden");
+    
+                    // Update mobile menu
+                    document.querySelector('#mobileMenu a[href="/login"]').classList.add("hidden");
+                    document.querySelector('#mobileMenu a[href="/logout"]').classList.remove("hidden");
+                }
+            } catch (error) {
+                console.error("Error checking login status:", error);
+            }
+        }
+    
+        async function fetchProperties() {
+            try {
+                const response = await fetch("/api/properties");
+                if (!response.ok) throw new Error("Failed to fetch data");
+    
+                properties = await response.json();
+                updateAproxValueRange();
+                displayProperties();
+            } catch (error) {
+                console.error("Error fetching properties:", error);
+            }
+        }
+    
+        function updateAproxValueRange() {
+            if (properties.length > 0) {
+                minAproxValue = Math.min(...properties.map(p => p.aprox_Value));
+                maxAproxValue = Math.max(...properties.map(p => p.aprox_Value));
+    
+                const valueRange = document.getElementById('valueRange');
+                noUiSlider.create(valueRange, {
+                    start: [minAproxValue, maxAproxValue],
+                    connect: true,
+                    range: {
+                        'min': minAproxValue,
+                        'max': maxAproxValue
+                    },
+                    tooltips: [wNumb({ decimals: 0 }), wNumb({ decimals: 0 })],
+                    format: {
+                        to: function (value) {
+                            return value.toFixed(0);
+                        },
+                        from: function (value) {
+                            return Number(value);
+                        }
+                    }
+                });
+    
+                valueRange.noUiSlider.on('update', function (values, handle) {
+                    document.getElementById('minValue').value = values[0];
+                    document.getElementById('maxValue').value = values[1];
+                    currentPage = 1;
+                    displayProperties();
+                });
+    
+                document.getElementById('minValue').min = minAproxValue;
+                document.getElementById('maxValue').max = maxAproxValue;
+            }
+        }
+    
+        function displayProperties() {
+            const container = document.getElementById("propertyContainer");
+            container.innerHTML = "";
+    
+            const selectedCategory = document.getElementById("sortCategory").value;
+            const selectedSellOrRent = document.getElementById("sortSellOrRent").value;
+            const selectedMinValue = parseInt(document.getElementById('minValue').value) || minAproxValue;
+            const selectedMaxValue = parseInt(document.getElementById('maxValue').value) || maxAproxValue;
+    
+            // Filter properties based on the selected category, sellOrRent, and aprox_Value
+            let filteredProperties = properties;
+            if (selectedCategory !== "all") {
+                filteredProperties = filteredProperties.filter(property => property.catagary === selectedCategory);
+            }
+            if (selectedSellOrRent !== "all") {
+                filteredProperties = filteredProperties.filter(property => property.sellOrRent === selectedSellOrRent);
+            }
+            filteredProperties = filteredProperties.filter(property => property.aprox_Value >= selectedMinValue && property.aprox_Value <= selectedMaxValue);
+    
+            const start = (currentPage - 1) * propertiesPerPage;
+            const end = start + propertiesPerPage;
+            const paginatedProperties = filteredProperties.slice(start, end);
+    
+            paginatedProperties.forEach(property => {
+                const msg = `Hello, I am interested in your property. Please provide more details. Property Link: ${property.propertyCode}`;
+                const card = document.createElement("div");
+                card.className = "bg-gray-800 text-gray-100 shadow-lg rounded-lg overflow-hidden p-4 transition duration-300 relative";
+    
+                const images = property.property_phots || [];
+                let sliderImages = images.map((photo, i) => 
+                    `<img src="${photo}" class="slider-image w-full h-64 object-cover rounded-lg ${i === 0 ? 'block' : 'hidden'}" data-index="${i}">`
+                ).join("");
+    
+                // Add badge based on sellOrRent
+                let badgeClass;
+    
+                if (property.sellOrRent === 'sell') {
+                    badgeClass = 'badge sell';
+                } else if (property.sellOrRent === 'rent') {
+                    badgeClass = 'badge rent';
+                } else {
+                    badgeClass = '';
+                }
+    
+                let badgeText;
+    
+                if (property.sellOrRent === 'sell') {
+                    badgeText = 'For Sell';
+                } else if (property.sellOrRent === 'rent') {
+                    badgeText = 'For Rent';
+                } else {
+                    badgeClass = '';
+                }
+    
+                card.innerHTML = `
+                    <div class="relative">
+                        <div class="w-full h-64 overflow-hidden rounded-lg relative">
+                            <div class="image-slider" id="slider-${property.propertyCode}">
+                                ${sliderImages}
+                            </div>
+                            ${images.length > 1 ? `
+                                <button class="absolute left-2 top-1/2 transform -translate-y-1/2 bg-gray-900 bg-opacity-50 text-white px-2 py-1 rounded" onclick="prevSlide('${property.propertyCode}')">‹</button>
+                                <button class="absolute right-2 top-1/2 transform -translate-y-1/2 bg-gray-900 bg-opacity-50 text-white px-2 py-1 rounded" onclick="nextSlide('${property.propertyCode}')">›</button>
+                            ` : ""}
+                            <span class="${badgeClass}">${badgeText}</span>
+                        </div>
+                    </div>
+                    <h3 class="mt-2 text-xl font-semibold">${property.ownerName}</h3>
+                    <p><strong>City:</strong> ${property.city}</p>
+                    <p><strong>Category:</strong> ${property.catagary}</p>
+                    <p><strong>Value:</strong> ${property.aprox_Value.toLocaleString()}</p>
+                    <div class="flex justify-around items-center mt-4 gap-4">
+                        <button class="mt-4 bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300">
+                            <a href="https://api.whatsapp.com/send?text=${msg}"> Contact Now </a>
+                        </button>
+                        <a href="/property/${property.propertyCode}">
+                            <button class="mt-4 bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300">
+                                Details
+                            </button>
+                        </a>
+                    </div>
+                `;
+
+                
+    
+                container.appendChild(card);
+            });
+    
+            updatePagination(filteredProperties.length);
+            restartAutoSlide(); // Restart auto-slide every time properties change
+        }
+    
+        function updatePagination(totalProperties) {
+            const totalPages = Math.ceil(totalProperties / propertiesPerPage);
+            const paginationContainer = document.getElementById("paginationNumbers");
+            paginationContainer.innerHTML = "";
+    
+            const maxVisiblePages = 5; // Limit pagination navigation to 5 pages
+            let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+    
+            if (endPage - startPage < maxVisiblePages - 1) {
+                startPage = Math.max(1, endPage - maxVisiblePages + 1);
+            }
+    
+            // Previous Button
+            const prevButton = document.getElementById("prevPage");
+            prevButton.disabled = currentPage === 1;
+    
+            // Next Button
+            const nextButton = document.getElementById("nextPage");
+            nextButton.disabled = currentPage === totalPages;
+    
+            // Add page numbers dynamically
+            for (let i = startPage; i <= endPage; i++) {
+                const pageButton = document.createElement("button");
+                pageButton.className = `px-3 py-2 rounded-lg ${i === currentPage ? "bg-blue-500 text-white" : "bg-gray-700 text-white hover:bg-gray-600"}`;
+                pageButton.innerText = i;
+                pageButton.addEventListener("click", () => {
+                    currentPage = i;
+                    displayProperties();
+                });
+                paginationContainer.appendChild(pageButton);
+            }
+        }
+    
+        function nextSlide(propertyId) {
+            let slider = document.querySelector(`#slider-${propertyId}`);
+            let images = slider.querySelectorAll(".slider-image");
+            let activeIndex = [...images].findIndex(img => img.classList.contains("block"));
+    
+            images[activeIndex].classList.replace("block", "hidden");
+            let nextIndex = (activeIndex + 1) % images.length;
+            images[nextIndex].classList.replace("hidden", "block");
+        }
+    
+        function prevSlide(propertyId) {
+            let slider = document.querySelector(`#slider-${propertyId}`);
+            let images = slider.querySelectorAll(".slider-image");
+            let activeIndex = [...images].findIndex(img => img.classList.contains("block"));
+    
+            images[activeIndex].classList.replace("block", "hidden");
+            let prevIndex = (activeIndex - 1 + images.length) % images.length;
+            images[prevIndex].classList.replace("hidden", "block");
+        }
+    
+        // Auto-slide images every 3 seconds (reset after pagination change)
+        function autoSlide() {
+            document.querySelectorAll(".image-slider").forEach(slider => {
+                let propertyId = slider.id.split("-")[1];
+                nextSlide(propertyId);
+            });
+        }
+    
+        // Clear old intervals & Restart Auto-Sliding on Page Change
+        let autoSlideInterval;
+        function restartAutoSlide() {
+            clearInterval(autoSlideInterval);
+            autoSlideInterval = setInterval(autoSlide, 3000);
+        }
+    
+        document.getElementById("prevPage").addEventListener("click", () => {
+            if (currentPage > 1) {
+                currentPage--;
+                displayProperties();
+            }
+        });
+    
+        document.getElementById("nextPage").addEventListener("click", () => {
+            if (currentPage * propertiesPerPage < properties.length) {
+                currentPage++;
+                displayProperties();
+            }
+        });
+    
+        document.getElementById("sortCategory").addEventListener("change", () => {
+            currentPage = 1; // Reset to first page
+            displayProperties();
+        });
+    
+        document.getElementById("sortSellOrRent").addEventListener("change", () => {
+            currentPage = 1; // Reset to first page
+            displayProperties();
+        });
+    
+        document.getElementById("filterButton").addEventListener("click", () => {
+            currentPage = 1; // Reset to first page
+            displayProperties();
+        });
+    
+        // Toggle mobile menu visibility
+        document.getElementById('menuButton').addEventListener('click', function() {
+            const mobileMenu = document.getElementById('mobileMenu');
+            mobileMenu.classList.toggle('hidden');
+        });
+    
+        // Check login status and update the navbar
+        async function checkLoginStatus() {
+            try {
+                const response = await fetch('/check-session');
+                const data = await response.json();
+                if (data.loggedIn) {
+                    document.getElementById("loginButton").classList.add("hidden");
+                    document.getElementById("logoutButton").classList.remove("hidden");
+                    document.getElementById("userName").textContent = data.userName;
+                    document.getElementById("listMyPropertyLink").classList.remove("hidden");
+                    document.getElementById("mobileListMyPropertyLink").classList.remove("hidden");
+    
+                    // Update mobile menu
+                    document.querySelector('#mobileMenu a[href="/login"]').classList.add("hidden");
+                    document.querySelector('#mobileMenu a[href="/logout"]').classList.remove("hidden");
+                }
+            } catch (error) {
+                console.error("Error checking login status:", error);
+            }
+        }
+    
+        checkLoginStatus();
+        fetchProperties();
+    </script>
+</body>
+</html>

@@ -1,0 +1,4492 @@
+[
+  {
+    "propertyCode": 3,
+    "ownerName": "Zorana Koschek",
+    "contactPersonName": "Clary Stute",
+    "mobileNo": "836-393-7689",
+    "wpNo": "889-977-9032",
+    "city": "Sabaneta",
+    "area": "Warner",
+    "approxValue": 146892,
+    "sqFeet": 1404,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/15447422/pexels-photo-15447422/free-photo-of-drone-shot-of-city-at-sunset.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 ",
+      " https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "rent"
+  },
+  {
+    "propertyCode": 4,
+    "ownerName": "Jeremie Langstone",
+    "contactPersonName": "Tedra Rappoport",
+    "mobileNo": "540-289-6375",
+    "wpNo": "178-601-8508",
+    "city": "Skara",
+    "area": "Toban",
+    "approxValue": 174197,
+    "sqFeet": 672,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/15447422/pexels-photo-15447422/free-photo-of-drone-shot-of-city-at-sunset.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 ",
+      " https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "rent"
+  },
+  {
+    "propertyCode": 5,
+    "ownerName": "Cortney Cammacke",
+    "contactPersonName": "Maddy Klessmann",
+    "mobileNo": "907-435-0280",
+    "wpNo": "777-131-8859",
+    "city": "Sant Julià de Lòria",
+    "area": "Fieldstone",
+    "approxValue": 76911,
+    "sqFeet": 1378,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/15447422/pexels-photo-15447422/free-photo-of-drone-shot-of-city-at-sunset.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 ",
+      " https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "sell"
+  },
+  {
+    "propertyCode": 6,
+    "ownerName": "Jenifer Motton",
+    "contactPersonName": "Laverna Jacklin",
+    "mobileNo": "976-167-4722",
+    "wpNo": "217-809-0286",
+    "city": "Sechelt",
+    "area": "Artisan",
+    "approxValue": 128361,
+    "sqFeet": 648,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "sell",
+    "priority": "high"
+  },
+  {
+    "propertyCode": 7,
+    "ownerName": "Harv Fannon",
+    "contactPersonName": "Allard Mandrake",
+    "mobileNo": "163-503-7305",
+    "wpNo": "155-581-1068",
+    "city": "João Pessoa",
+    "area": "Bartelt",
+    "approxValue": 181744,
+    "sqFeet": 876,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "sell"
+  },
+  {
+    "propertyCode": 8,
+    "ownerName": "Byran Jahner",
+    "contactPersonName": "Philippa Potticary",
+    "mobileNo": "265-448-4055",
+    "wpNo": "667-925-5616",
+    "city": "Juren",
+    "area": "Tomscot",
+    "approxValue": 126914,
+    "sqFeet": 700,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "sell"
+  },
+  {
+    "propertyCode": 9,
+    "ownerName": "Joby Buttel",
+    "contactPersonName": "Fonsie Meric",
+    "mobileNo": "726-811-1518",
+    "wpNo": "575-221-3439",
+    "city": "Yujia",
+    "area": "Gale",
+    "approxValue": 36967,
+    "sqFeet": 1809,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "sell",
+    "priority": "high"
+  },
+  {
+    "propertyCode": 10,
+    "ownerName": "Charmaine Egdell",
+    "contactPersonName": "Timofei Blayd",
+    "mobileNo": "952-490-4055",
+    "wpNo": "966-423-0163",
+    "city": "Ricardo Palma",
+    "area": "Oak Valley",
+    "approxValue": 127139,
+    "sqFeet": 1923,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "sell"
+  },
+  {
+    "propertyCode": 11,
+    "ownerName": "Patrice Cornilleau",
+    "contactPersonName": "Hildagard Humpage",
+    "mobileNo": "172-851-0816",
+    "wpNo": "503-274-8934",
+    "city": "Fiães",
+    "area": "Dahle",
+    "approxValue": 44050,
+    "sqFeet": 314,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "rent",
+    "priority": "high"
+  },
+  {
+    "propertyCode": 12,
+    "ownerName": "Celestina Durward",
+    "contactPersonName": "Pet Konmann",
+    "mobileNo": "116-287-9617",
+    "wpNo": "754-443-8490",
+    "city": "Betaf",
+    "area": "Cambridge",
+    "approxValue": 38698,
+    "sqFeet": 1017,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "rent"
+  },
+  {
+    "propertyCode": 13,
+    "ownerName": "Blanca Dodds",
+    "contactPersonName": "Emma Brearton",
+    "mobileNo": "923-888-3911",
+    "wpNo": "294-562-7771",
+    "city": "Hluhluwe",
+    "area": "Portage",
+    "approxValue": 145359,
+    "sqFeet": 551,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "rent",
+    "priority": "high"
+  },
+  {
+    "propertyCode": 14,
+    "ownerName": "Velma Jamary",
+    "contactPersonName": "Sisely Bartholomieu",
+    "mobileNo": "524-411-4921",
+    "wpNo": "240-117-1620",
+    "city": "San Francisco",
+    "area": "Hollow Ridge",
+    "approxValue": 33044,
+    "sqFeet": 1090,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "rent",
+    "priority": "high"
+  },
+  {
+    "propertyCode": 15,
+    "ownerName": "Carleen Clemmensen",
+    "contactPersonName": "Sibyl Vosse",
+    "mobileNo": "696-645-2231",
+    "wpNo": "633-937-9265",
+    "city": "Rungis",
+    "area": "David",
+    "approxValue": 193521,
+    "sqFeet": 1018,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 16,
+    "ownerName": "Antonin Lardnar",
+    "contactPersonName": "Laurel Serle",
+    "mobileNo": "430-131-2043",
+    "wpNo": "185-617-1048",
+    "city": "Independencia",
+    "area": "Lawn",
+    "approxValue": 81699,
+    "sqFeet": 651,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 17,
+    "ownerName": "Modesty Beecraft",
+    "contactPersonName": "Keslie Osmant",
+    "mobileNo": "530-317-9766",
+    "wpNo": "790-332-2871",
+    "city": "Ginir",
+    "area": "Esch",
+    "approxValue": 48568,
+    "sqFeet": 327,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 18,
+    "ownerName": "Teodor Romaine",
+    "contactPersonName": "Kelley Vannacci",
+    "mobileNo": "602-864-0512",
+    "wpNo": "408-357-1980",
+    "city": "Chatian",
+    "area": "Trailsway",
+    "approxValue": 24261,
+    "sqFeet": 947,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 19,
+    "ownerName": "Noel Banting",
+    "contactPersonName": "Kendre Ponceford",
+    "mobileNo": "712-978-0246",
+    "wpNo": "977-539-7469",
+    "city": "Rimbo",
+    "area": "Quincy",
+    "approxValue": 176045,
+    "sqFeet": 298,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "sellOrRent": "sell"
+  },
+  {
+    "propertyCode": 20,
+    "ownerName": "Berthe Gamlen",
+    "contactPersonName": "Babs Pestor",
+    "mobileNo": "216-203-4015",
+    "wpNo": "694-359-7009",
+    "city": "Yangba",
+    "area": "2nd",
+    "approxValue": 58852,
+    "sqFeet": 1613,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "priority": "high",
+    "sellOrRent": "sell"
+  },
+  {
+    "propertyCode": 21,
+    "ownerName": "Marieann Bane",
+    "contactPersonName": "Alec Abeau",
+    "mobileNo": "662-968-5097",
+    "wpNo": "985-162-7804",
+    "city": "Shuangxi",
+    "area": "Boyd",
+    "approxValue": 115998,
+    "sqFeet": 376,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 22,
+    "ownerName": "Gaby Kington",
+    "contactPersonName": "Barnabas Findlater",
+    "mobileNo": "592-743-9831",
+    "wpNo": "402-977-0279",
+    "city": "Menghai",
+    "area": "Pankratz",
+    "approxValue": 35357,
+    "sqFeet": 1981,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 23,
+    "ownerName": "Cody Gaythor",
+    "contactPersonName": "Saw Bartlam",
+    "mobileNo": "500-459-9343",
+    "wpNo": "907-505-4045",
+    "city": "Kislyakovskaya",
+    "area": "Washington",
+    "approxValue": 40102,
+    "sqFeet": 587,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 24,
+    "ownerName": "Gris Hoyles",
+    "contactPersonName": "Cherry Jayume",
+    "mobileNo": "130-423-5075",
+    "wpNo": "464-674-2618",
+    "city": "Artimet",
+    "area": "Cambridge",
+    "approxValue": 167592,
+    "sqFeet": 1403,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 25,
+    "ownerName": "Lennard Eldin",
+    "contactPersonName": "Mufi Pendall",
+    "mobileNo": "231-208-8025",
+    "wpNo": "980-430-1206",
+    "city": "Ústí nad Orlicí",
+    "area": "Moulton",
+    "approxValue": 112583,
+    "sqFeet": 523,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 26,
+    "ownerName": "Tobi Dawnay",
+    "contactPersonName": "Tony Albion",
+    "mobileNo": "606-548-4454",
+    "wpNo": "171-961-4505",
+    "city": "Cadagmayan Norte",
+    "area": "Express",
+    "approxValue": 92632,
+    "sqFeet": 1669,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 27,
+    "ownerName": "Willow Peverell",
+    "contactPersonName": "Efren Held",
+    "mobileNo": "389-279-7972",
+    "wpNo": "986-626-0795",
+    "city": "La Guacamaya",
+    "area": "Kim",
+    "approxValue": 101112,
+    "sqFeet": 1120,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 28,
+    "ownerName": "Gladi de Glanville",
+    "contactPersonName": "Laurette Skyram",
+    "mobileNo": "559-698-4493",
+    "wpNo": "646-244-3813",
+    "city": "Baizhong",
+    "area": "Hollow Ridge",
+    "approxValue": 99960,
+    "sqFeet": 1601,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 29,
+    "ownerName": "Vidovic Wanstall",
+    "contactPersonName": "Sutherland Scrymgeour",
+    "mobileNo": "719-559-6253",
+    "wpNo": "714-433-5174",
+    "city": "Bosanski Brod",
+    "area": "South",
+    "approxValue": 51446,
+    "sqFeet": 466,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 30,
+    "ownerName": "Rory Tabner",
+    "contactPersonName": "Lyn Yakebowitch",
+    "mobileNo": "191-828-5198",
+    "wpNo": "942-688-3815",
+    "city": "Sanxi",
+    "area": "Express",
+    "approxValue": 184572,
+    "sqFeet": 1030,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 31,
+    "ownerName": "Clarette Wyne",
+    "contactPersonName": "Denny Brabbs",
+    "mobileNo": "438-810-9908",
+    "wpNo": "583-667-2436",
+    "city": "Caigongzhuang",
+    "area": "Comanche",
+    "approxValue": 91001,
+    "sqFeet": 287,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 32,
+    "ownerName": "Nicolai Siddaley",
+    "contactPersonName": "Janella Gratrix",
+    "mobileNo": "405-190-4078",
+    "wpNo": "284-379-9124",
+    "city": "Vyksa",
+    "area": "Brown",
+    "approxValue": 170041,
+    "sqFeet": 869,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 33,
+    "ownerName": "Carri Haslock",
+    "contactPersonName": "Barn Quail",
+    "mobileNo": "144-937-9828",
+    "wpNo": "935-658-0301",
+    "city": "Vabalninkas",
+    "area": "Donald",
+    "approxValue": 78020,
+    "sqFeet": 1379,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 34,
+    "ownerName": "Casey Odell",
+    "contactPersonName": "Karil Antrim",
+    "mobileNo": "704-446-2691",
+    "wpNo": "170-985-1942",
+    "city": "Thị Trấn Yên Phú",
+    "area": "Mallard",
+    "approxValue": 48562,
+    "sqFeet": 1953,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 35,
+    "ownerName": "Aland Urien",
+    "contactPersonName": "Cordie Catherall",
+    "mobileNo": "548-467-4484",
+    "wpNo": "857-779-9102",
+    "city": "Sapernoye",
+    "area": "Mcguire",
+    "approxValue": 150021,
+    "sqFeet": 805,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 36,
+    "ownerName": "Ginelle Bushby",
+    "contactPersonName": "Cullen Totterdill",
+    "mobileNo": "369-398-9046",
+    "wpNo": "172-756-8660",
+    "city": "Miraflores",
+    "area": "Gina",
+    "approxValue": 110926,
+    "sqFeet": 1214,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 37,
+    "ownerName": "Terrel Littleproud",
+    "contactPersonName": "Hyacinth Pecht",
+    "mobileNo": "495-620-8983",
+    "wpNo": "858-903-2307",
+    "city": "Leigu",
+    "area": "Monument",
+    "approxValue": 159818,
+    "sqFeet": 1256,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 38,
+    "ownerName": "Erma Fernie",
+    "contactPersonName": "Arabelle Shearman",
+    "mobileNo": "684-535-4131",
+    "wpNo": "784-712-7450",
+    "city": "Guariba",
+    "area": "Anniversary",
+    "approxValue": 173691,
+    "sqFeet": 1149,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 39,
+    "ownerName": "Pamelina Threadgill",
+    "contactPersonName": "Early Donan",
+    "mobileNo": "684-524-3051",
+    "wpNo": "450-153-0429",
+    "city": "Čížkovice",
+    "area": "Banding",
+    "approxValue": 135086,
+    "sqFeet": 934,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 40,
+    "ownerName": "Meris Sukbhans",
+    "contactPersonName": "Andrus Gahagan",
+    "mobileNo": "539-588-9799",
+    "wpNo": "458-553-5189",
+    "city": "Xujiahe",
+    "area": "Dapin",
+    "approxValue": 128296,
+    "sqFeet": 319,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 41,
+    "ownerName": "Gilligan Brimley",
+    "contactPersonName": "Haley Slimon",
+    "mobileNo": "816-178-1233",
+    "wpNo": "173-147-1586",
+    "city": "Banjaranyar",
+    "area": "American",
+    "approxValue": 183025,
+    "sqFeet": 1325,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 42,
+    "ownerName": "Andra Lawlings",
+    "contactPersonName": "Ancell Lawey",
+    "mobileNo": "728-320-5328",
+    "wpNo": "454-642-6025",
+    "city": "Quimper",
+    "area": "Myrtle",
+    "approxValue": 125542,
+    "sqFeet": 416,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 43,
+    "ownerName": "Hobey Simonot",
+    "contactPersonName": "Kristel Render",
+    "mobileNo": "223-152-1913",
+    "wpNo": "215-170-3619",
+    "city": "Bun Barat",
+    "area": "Moulton",
+    "approxValue": 162806,
+    "sqFeet": 1255,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 44,
+    "ownerName": "Georgeanna Tollerfield",
+    "contactPersonName": "Maire Hymer",
+    "mobileNo": "191-978-6032",
+    "wpNo": "351-998-1693",
+    "city": "Riverton",
+    "area": "Northport",
+    "approxValue": 118449,
+    "sqFeet": 328,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 45,
+    "ownerName": "Remus Dix",
+    "contactPersonName": "Arri Trouel",
+    "mobileNo": "241-886-2630",
+    "wpNo": "969-849-5826",
+    "city": "Funabashi",
+    "area": "Del Sol",
+    "approxValue": 68776,
+    "sqFeet": 1522,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 46,
+    "ownerName": "Cristionna Lobb",
+    "contactPersonName": "Amelita Talton",
+    "mobileNo": "377-569-1997",
+    "wpNo": "755-858-3855",
+    "city": "Ciechanów",
+    "area": "Graceland",
+    "approxValue": 75914,
+    "sqFeet": 1241,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 47,
+    "ownerName": "Roley Brigginshaw",
+    "contactPersonName": "Tailor Watson-Brown",
+    "mobileNo": "138-848-8560",
+    "wpNo": "679-933-1150",
+    "city": "Cabeço",
+    "area": "Lake View",
+    "approxValue": 80882,
+    "sqFeet": 1282,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 48,
+    "ownerName": "Jeramey Houston",
+    "contactPersonName": "Brittan Bexon",
+    "mobileNo": "180-127-1244",
+    "wpNo": "621-611-6852",
+    "city": "Jiantou",
+    "area": "Fuller",
+    "approxValue": 39008,
+    "sqFeet": 538,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 49,
+    "ownerName": "Jessee Bilbie",
+    "contactPersonName": "Caressa Caldera",
+    "mobileNo": "944-370-7904",
+    "wpNo": "650-813-1647",
+    "city": "Xiashu",
+    "area": "Fulton",
+    "approxValue": 45898,
+    "sqFeet": 806,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 50,
+    "ownerName": "Kevina Greguol",
+    "contactPersonName": "Tadio Geram",
+    "mobileNo": "379-922-8048",
+    "wpNo": "510-502-9467",
+    "city": "Magisterial",
+    "area": "Mariners Cove",
+    "approxValue": 170957,
+    "sqFeet": 1269,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 51,
+    "ownerName": "April Headingham",
+    "contactPersonName": "Kaela Le Jean",
+    "mobileNo": "241-493-6191",
+    "wpNo": "417-423-4585",
+    "city": "Phu Sang",
+    "area": "Westridge",
+    "approxValue": 173757,
+    "sqFeet": 793,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 52,
+    "ownerName": "Scot Torri",
+    "contactPersonName": "Larina Teggart",
+    "mobileNo": "191-265-2781",
+    "wpNo": "758-608-3607",
+    "city": "Zargarān",
+    "area": "Arrowood",
+    "approxValue": 158277,
+    "sqFeet": 1714,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 53,
+    "ownerName": "Milzie Aslet",
+    "contactPersonName": "Amberly Swaine",
+    "mobileNo": "926-108-6162",
+    "wpNo": "737-320-3296",
+    "city": "Bograd",
+    "area": "Moose",
+    "approxValue": 102623,
+    "sqFeet": 1831,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 54,
+    "ownerName": "Rhea Bensley",
+    "contactPersonName": "Maegan McGonnell",
+    "mobileNo": "455-224-5284",
+    "wpNo": "952-819-3422",
+    "city": "Berëza",
+    "area": "Hovde",
+    "approxValue": 41937,
+    "sqFeet": 1643,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 55,
+    "ownerName": "Dayna Fassmann",
+    "contactPersonName": "Ellis Caldera",
+    "mobileNo": "517-570-5066",
+    "wpNo": "517-959-2268",
+    "city": "Taihe",
+    "area": "Twin Pines",
+    "approxValue": 74512,
+    "sqFeet": 621,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 56,
+    "ownerName": "Jonathan Kleinhaus",
+    "contactPersonName": "Shem Kisbey",
+    "mobileNo": "187-466-1845",
+    "wpNo": "636-663-3755",
+    "city": "Leiden",
+    "area": "Forest Dale",
+    "approxValue": 81177,
+    "sqFeet": 1780,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1,https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 57,
+    "ownerName": "Deina Deakan",
+    "contactPersonName": "Steven Basezzi",
+    "mobileNo": "611-893-0787",
+    "wpNo": "721-908-0490",
+    "city": "Pines",
+    "area": "Stephen",
+    "approxValue": 36834,
+    "sqFeet": 1474,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 58,
+    "ownerName": "Redd Hollier",
+    "contactPersonName": "Odella Rentz",
+    "mobileNo": "828-795-8069",
+    "wpNo": "862-790-6545",
+    "city": "Seseng",
+    "area": "Reinke",
+    "approxValue": 171676,
+    "sqFeet": 870,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 59,
+    "ownerName": "Anatole Robelow",
+    "contactPersonName": "Imogen Robelow",
+    "mobileNo": "452-685-8341",
+    "wpNo": "822-812-4107",
+    "city": "Balbagay",
+    "area": "Hoard",
+    "approxValue": 107016,
+    "sqFeet": 256,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 60,
+    "ownerName": "Aile Say",
+    "contactPersonName": "Sheffield Elldred",
+    "mobileNo": "630-506-7910",
+    "wpNo": "411-596-8028",
+    "city": "Santa Rosa de Aguán",
+    "area": "Bluestem",
+    "approxValue": 96850,
+    "sqFeet": 708,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 61,
+    "ownerName": "Thibaud Prahm",
+    "contactPersonName": "Brook Warkup",
+    "mobileNo": "130-520-1910",
+    "wpNo": "624-181-8516",
+    "city": "Karma",
+    "area": "Melrose",
+    "approxValue": 36130,
+    "sqFeet": 1670,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 62,
+    "ownerName": "Jere Budleigh",
+    "contactPersonName": "Blayne Blazynski",
+    "mobileNo": "943-631-7262",
+    "wpNo": "926-226-7343",
+    "city": "Jianghong",
+    "area": "Glacier Hill",
+    "approxValue": 142053,
+    "sqFeet": 1175,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 63,
+    "ownerName": "Blanch Braiden",
+    "contactPersonName": "Galina Fleetwood",
+    "mobileNo": "174-604-4146",
+    "wpNo": "237-114-3337",
+    "city": "Xiajiashan",
+    "area": "Sloan",
+    "approxValue": 26771,
+    "sqFeet": 459,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 64,
+    "ownerName": "Frants Baly",
+    "contactPersonName": "Akim Reuter",
+    "mobileNo": "436-806-0167",
+    "wpNo": "569-561-8047",
+    "city": "Livadiya",
+    "area": "Helena",
+    "approxValue": 166437,
+    "sqFeet": 1391,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 65,
+    "ownerName": "Benedick Collier",
+    "contactPersonName": "Tommie De La Haye",
+    "mobileNo": "733-896-1365",
+    "wpNo": "689-518-2182",
+    "city": "Agrela",
+    "area": "Westend",
+    "approxValue": 113721,
+    "sqFeet": 698,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 66,
+    "ownerName": "Briggs Kershaw",
+    "contactPersonName": "Lusa Elldred",
+    "mobileNo": "179-118-2617",
+    "wpNo": "720-698-5676",
+    "city": "Santa Cruz",
+    "area": "Monica",
+    "approxValue": 186782,
+    "sqFeet": 992,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 67,
+    "ownerName": "Miriam Stearns",
+    "contactPersonName": "Nanette Truckett",
+    "mobileNo": "784-944-6589",
+    "wpNo": "961-230-2155",
+    "city": "Bangxi",
+    "area": "Carberry",
+    "approxValue": 87538,
+    "sqFeet": 814,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 68,
+    "ownerName": "Justis Brightman",
+    "contactPersonName": "Ingrim Rodger",
+    "mobileNo": "329-157-7279",
+    "wpNo": "911-414-8349",
+    "city": "Primorsk",
+    "area": "Graedel",
+    "approxValue": 119722,
+    "sqFeet": 1289,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 69,
+    "ownerName": "Toinette Godsal",
+    "contactPersonName": "Elset Krause",
+    "mobileNo": "770-196-7264",
+    "wpNo": "429-697-9775",
+    "city": "Budapest",
+    "area": "Pine View",
+    "approxValue": 137266,
+    "sqFeet": 329,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 70,
+    "ownerName": "Ethelred Jone",
+    "contactPersonName": "Kennith Handyside",
+    "mobileNo": "493-241-0646",
+    "wpNo": "874-928-8265",
+    "city": "Sabugal",
+    "area": "Amoth",
+    "approxValue": 116335,
+    "sqFeet": 268,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 71,
+    "ownerName": "Karoline Bodle",
+    "contactPersonName": "Niki Helbeck",
+    "mobileNo": "606-613-4618",
+    "wpNo": "267-105-0232",
+    "city": "Goworowo",
+    "area": "Melrose",
+    "approxValue": 69233,
+    "sqFeet": 789,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 72,
+    "ownerName": "Dorie Chanson",
+    "contactPersonName": "Eleanore Gruszka",
+    "mobileNo": "484-862-0500",
+    "wpNo": "200-698-1860",
+    "city": "Ključ",
+    "area": "Commercial",
+    "approxValue": 143828,
+    "sqFeet": 1405,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 73,
+    "ownerName": "Daniele Glanvill",
+    "contactPersonName": "Renato Clemmitt",
+    "mobileNo": "799-230-2552",
+    "wpNo": "418-855-5140",
+    "city": "Muaralembu",
+    "area": "Cambridge",
+    "approxValue": 193970,
+    "sqFeet": 1584,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 74,
+    "ownerName": "Delbert Pioli",
+    "contactPersonName": "Maurizio Fullbrook",
+    "mobileNo": "790-675-2918",
+    "wpNo": "140-848-9405",
+    "city": "Gião",
+    "area": "Schmedeman",
+    "approxValue": 175881,
+    "sqFeet": 787,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 75,
+    "ownerName": "Anabelle Haugeh",
+    "contactPersonName": "Hubert Plett",
+    "mobileNo": "417-615-8629",
+    "wpNo": "619-315-0477",
+    "city": "Bajia",
+    "area": "Sage",
+    "approxValue": 184401,
+    "sqFeet": 661,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 76,
+    "ownerName": "Julian Goudge",
+    "contactPersonName": "Fenelia Jackways",
+    "mobileNo": "581-897-7082",
+    "wpNo": "935-388-6114",
+    "city": "Campos Novos",
+    "area": "Graceland",
+    "approxValue": 163902,
+    "sqFeet": 1343,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 77,
+    "ownerName": "Annetta Cull",
+    "contactPersonName": "Kliment Chatterton",
+    "mobileNo": "865-827-1427",
+    "wpNo": "607-772-4779",
+    "city": "Moramanga",
+    "area": "Union",
+    "approxValue": 158726,
+    "sqFeet": 438,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 78,
+    "ownerName": "Netty Kernoghan",
+    "contactPersonName": "Dee dee Hastelow",
+    "mobileNo": "971-190-9703",
+    "wpNo": "750-835-1469",
+    "city": "Azun Atme",
+    "area": "Laurel",
+    "approxValue": 155524,
+    "sqFeet": 260,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 79,
+    "ownerName": "Ambrosio Sommerled",
+    "contactPersonName": "Saxe Lombardo",
+    "mobileNo": "973-678-9185",
+    "wpNo": "505-378-3608",
+    "city": "Sadowie",
+    "area": "Derek",
+    "approxValue": 136137,
+    "sqFeet": 729,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 80,
+    "ownerName": "Ysabel Gehringer",
+    "contactPersonName": "Briant Besse",
+    "mobileNo": "157-423-7024",
+    "wpNo": "900-399-6689",
+    "city": "Qingshandi",
+    "area": "Scoville",
+    "approxValue": 63446,
+    "sqFeet": 708,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 81,
+    "ownerName": "Geri Hurdle",
+    "contactPersonName": "Alyce Ebbage",
+    "mobileNo": "341-624-8535",
+    "wpNo": "918-373-9201",
+    "city": "Fais",
+    "area": "Vermont",
+    "approxValue": 39706,
+    "sqFeet": 1026,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 82,
+    "ownerName": "Sindee Fitzmaurice",
+    "contactPersonName": "Humfried Angelini",
+    "mobileNo": "702-199-9393",
+    "wpNo": "303-200-6120",
+    "city": "Kuantan",
+    "area": "New Castle",
+    "approxValue": 93808,
+    "sqFeet": 1891,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 83,
+    "ownerName": "Brett Yeowell",
+    "contactPersonName": "Jessamine Basterfield",
+    "mobileNo": "818-101-4106",
+    "wpNo": "437-771-1522",
+    "city": "Yangqiaodian",
+    "area": "Melrose",
+    "approxValue": 81560,
+    "sqFeet": 1562,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 84,
+    "ownerName": "Darlleen Biffin",
+    "contactPersonName": "Chancey Fonquernie",
+    "mobileNo": "569-135-2643",
+    "wpNo": "104-627-6619",
+    "city": "Sobotín",
+    "area": "Express",
+    "approxValue": 129382,
+    "sqFeet": 948,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 85,
+    "ownerName": "Elke Tayt",
+    "contactPersonName": "Fairlie Skowcraft",
+    "mobileNo": "757-187-8597",
+    "wpNo": "696-299-1910",
+    "city": "Fulong",
+    "area": "Calypso",
+    "approxValue": 157629,
+    "sqFeet": 1398,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 86,
+    "ownerName": "Hailey Sywell",
+    "contactPersonName": "Andy Fontanet",
+    "mobileNo": "693-316-7775",
+    "wpNo": "330-268-3455",
+    "city": "Nový Hrozenkov",
+    "area": "Annamark",
+    "approxValue": 134357,
+    "sqFeet": 894,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 87,
+    "ownerName": "Raychel Haycraft",
+    "contactPersonName": "Giorgi Tembey",
+    "mobileNo": "531-760-9133",
+    "wpNo": "749-359-5410",
+    "city": "Champagnole",
+    "area": "Burning Wood",
+    "approxValue": 99928,
+    "sqFeet": 1299,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 88,
+    "ownerName": "Fifi Benitti",
+    "contactPersonName": "Meggie Fitter",
+    "mobileNo": "601-558-6791",
+    "wpNo": "144-391-5319",
+    "city": "Ząbkowice Śląskie",
+    "area": "Marquette",
+    "approxValue": 83215,
+    "sqFeet": 1828,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 89,
+    "ownerName": "Jonell Carvil",
+    "contactPersonName": "Alaine Diddams",
+    "mobileNo": "320-867-9725",
+    "wpNo": "742-692-3663",
+    "city": "Ewarton",
+    "area": "Ronald Regan",
+    "approxValue": 115798,
+    "sqFeet": 472,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 90,
+    "ownerName": "Merilee Baron",
+    "contactPersonName": "Alfredo Plett",
+    "mobileNo": "877-329-7686",
+    "wpNo": "399-771-0850",
+    "city": "Simajia",
+    "area": "Evergreen",
+    "approxValue": 112808,
+    "sqFeet": 1374,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 91,
+    "ownerName": "Bayard Leil",
+    "contactPersonName": "Eva Viant",
+    "mobileNo": "290-276-8331",
+    "wpNo": "225-349-8156",
+    "city": "Marisgama",
+    "area": "Kennedy",
+    "approxValue": 29035,
+    "sqFeet": 1328,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 92,
+    "ownerName": "Parnell Wittman",
+    "contactPersonName": "Reina Benoiton",
+    "mobileNo": "270-718-9557",
+    "wpNo": "913-795-3650",
+    "city": "Penitik",
+    "area": "Elgar",
+    "approxValue": 142834,
+    "sqFeet": 294,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 93,
+    "ownerName": "Amy O'Moylane",
+    "contactPersonName": "Andria Overton",
+    "mobileNo": "510-454-0639",
+    "wpNo": "494-422-4532",
+    "city": "George Town",
+    "area": "Pond",
+    "approxValue": 198436,
+    "sqFeet": 1385,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 94,
+    "ownerName": "Clerkclaude Mallon",
+    "contactPersonName": "Dennis Slater",
+    "mobileNo": "529-485-6083",
+    "wpNo": "644-827-0810",
+    "city": "Ciénaga",
+    "area": "Fallview",
+    "approxValue": 186368,
+    "sqFeet": 945,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 95,
+    "ownerName": "Julee Pepperd",
+    "contactPersonName": "Roi Aggs",
+    "mobileNo": "494-453-5456",
+    "wpNo": "812-428-4038",
+    "city": "Novi Sad",
+    "area": "Columbus",
+    "approxValue": 88570,
+    "sqFeet": 1421,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 96,
+    "ownerName": "Hansiain Hayter",
+    "contactPersonName": "Inesita Sandys",
+    "mobileNo": "571-924-6977",
+    "wpNo": "990-232-3498",
+    "city": "Ōmamachō-ōmama",
+    "area": "Mifflin",
+    "approxValue": 196770,
+    "sqFeet": 1167,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 97,
+    "ownerName": "Salomone Cowerd",
+    "contactPersonName": "Gwyneth Langabeer",
+    "mobileNo": "892-255-2682",
+    "wpNo": "419-227-7813",
+    "city": "Kristiansand S",
+    "area": "Ridge Oak",
+    "approxValue": 67757,
+    "sqFeet": 898,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 98,
+    "ownerName": "Fianna Andriulis",
+    "contactPersonName": "Keelby Dorricott",
+    "mobileNo": "424-512-8977",
+    "wpNo": "740-575-8409",
+    "city": "Santa Rosa",
+    "area": "Forest",
+    "approxValue": 27124,
+    "sqFeet": 1638,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 99,
+    "ownerName": "Norean Goosey",
+    "contactPersonName": "Gibby Andresen",
+    "mobileNo": "641-566-7027",
+    "wpNo": "853-511-4774",
+    "city": "Leuwipicung",
+    "area": "Lerdahl",
+    "approxValue": 27781,
+    "sqFeet": 1871,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 100,
+    "ownerName": "Fayre Abbati",
+    "contactPersonName": "Claus Kleinhaut",
+    "mobileNo": "412-791-3218",
+    "wpNo": "273-768-3059",
+    "city": "Pizhanka",
+    "area": "Donald",
+    "approxValue": 90224,
+    "sqFeet": 1470,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 101,
+    "ownerName": "Merrili Adamovitch",
+    "contactPersonName": "Shepperd McFadin",
+    "mobileNo": "311-528-6864",
+    "wpNo": "502-495-7995",
+    "city": "Qixingtai",
+    "area": "Northport",
+    "approxValue": 155744,
+    "sqFeet": 1119,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 102,
+    "ownerName": "Brendin Tefft",
+    "contactPersonName": "Flem Bifield",
+    "mobileNo": "792-891-4309",
+    "wpNo": "230-225-3171",
+    "city": "Adrasmon",
+    "area": "Meadow Vale",
+    "approxValue": 113129,
+    "sqFeet": 1970,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 103,
+    "ownerName": "Aleen Dalby",
+    "contactPersonName": "Nataline MacCarter",
+    "mobileNo": "202-297-3170",
+    "wpNo": "506-284-4546",
+    "city": "‘Amrān",
+    "area": "Lunder",
+    "approxValue": 66755,
+    "sqFeet": 1425,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 104,
+    "ownerName": "Samuele Learmonth",
+    "contactPersonName": "Ulrick Tidman",
+    "mobileNo": "508-340-1498",
+    "wpNo": "577-876-3803",
+    "city": "Seredyna-Buda",
+    "area": "Namekagon",
+    "approxValue": 128746,
+    "sqFeet": 791,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 105,
+    "ownerName": "Coralyn Harms",
+    "contactPersonName": "Becka Fears",
+    "mobileNo": "601-441-5252",
+    "wpNo": "186-864-7366",
+    "city": "Wang Saphung",
+    "area": "Continental",
+    "approxValue": 197777,
+    "sqFeet": 1864,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 106,
+    "ownerName": "Cynthea Ogus",
+    "contactPersonName": "Hetty Hackwell",
+    "mobileNo": "122-724-3538",
+    "wpNo": "665-380-2896",
+    "city": "Akim Swedru",
+    "area": "8th",
+    "approxValue": 192798,
+    "sqFeet": 1113,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 107,
+    "ownerName": "Aindrea Rubanenko",
+    "contactPersonName": "Berny Kyndred",
+    "mobileNo": "391-800-8129",
+    "wpNo": "116-481-0312",
+    "city": "Jiangyan",
+    "area": "Havey",
+    "approxValue": 86187,
+    "sqFeet": 1004,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 108,
+    "ownerName": "Wake Semken",
+    "contactPersonName": "Rickie Ledward",
+    "mobileNo": "402-208-8712",
+    "wpNo": "488-531-0799",
+    "city": "São Bernardo do Campo",
+    "area": "Carey",
+    "approxValue": 34230,
+    "sqFeet": 463,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 109,
+    "ownerName": "Urban Freeberne",
+    "contactPersonName": "Kristine Raeburn",
+    "mobileNo": "254-532-2479",
+    "wpNo": "330-607-8291",
+    "city": "Jietou",
+    "area": "Canary",
+    "approxValue": 101862,
+    "sqFeet": 1737,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 110,
+    "ownerName": "Johnath Maddaford",
+    "contactPersonName": "Lynnette Edmundson",
+    "mobileNo": "203-562-3130",
+    "wpNo": "370-438-1955",
+    "city": "Linköping",
+    "area": "Monument",
+    "approxValue": 178365,
+    "sqFeet": 1589,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 111,
+    "ownerName": "Britteny Kinnerley",
+    "contactPersonName": "Osgood Damiral",
+    "mobileNo": "640-979-5962",
+    "wpNo": "792-692-1234",
+    "city": "Johanneshov",
+    "area": "Forster",
+    "approxValue": 148605,
+    "sqFeet": 1084,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 112,
+    "ownerName": "Chrissy Leifer",
+    "contactPersonName": "Rob Deuss",
+    "mobileNo": "266-794-9723",
+    "wpNo": "841-394-5652",
+    "city": "Lozova",
+    "area": "Shelley",
+    "approxValue": 187668,
+    "sqFeet": 571,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 113,
+    "ownerName": "David Penner",
+    "contactPersonName": "Welbie Fazan",
+    "mobileNo": "544-792-3544",
+    "wpNo": "398-385-3001",
+    "city": "Mitake",
+    "area": "Sunbrook",
+    "approxValue": 33958,
+    "sqFeet": 1141,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 114,
+    "ownerName": "Berni Coote",
+    "contactPersonName": "Hedda Cluderay",
+    "mobileNo": "724-644-8967",
+    "wpNo": "972-153-6796",
+    "city": "Puerto López",
+    "area": "Del Sol",
+    "approxValue": 63198,
+    "sqFeet": 481,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 115,
+    "ownerName": "Amargo Shaw",
+    "contactPersonName": "Maurene Filippo",
+    "mobileNo": "577-367-3013",
+    "wpNo": "876-565-7687",
+    "city": "Halmstad",
+    "area": "Mallory",
+    "approxValue": 164485,
+    "sqFeet": 1354,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 116,
+    "ownerName": "Hildagarde De la Yglesia",
+    "contactPersonName": "Abagail Hauch",
+    "mobileNo": "718-468-5487",
+    "wpNo": "506-601-2719",
+    "city": "Aykol",
+    "area": "Alpine",
+    "approxValue": 118161,
+    "sqFeet": 498,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 117,
+    "ownerName": "Burch Cornels",
+    "contactPersonName": "Samuele Breslane",
+    "mobileNo": "117-601-6379",
+    "wpNo": "386-634-5429",
+    "city": "Jiyizhuang",
+    "area": "Eagle Crest",
+    "approxValue": 50930,
+    "sqFeet": 1067,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 118,
+    "ownerName": "Nikita Benmore",
+    "contactPersonName": "Tandy Gaddie",
+    "mobileNo": "702-437-6900",
+    "wpNo": "818-690-0742",
+    "city": "Yinxi",
+    "area": "Tennessee",
+    "approxValue": 197078,
+    "sqFeet": 1272,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 119,
+    "ownerName": "Emlynne Khalid",
+    "contactPersonName": "Gabbie Troth",
+    "mobileNo": "116-596-6656",
+    "wpNo": "889-372-3424",
+    "city": "Třemošnice",
+    "area": "Helena",
+    "approxValue": 22299,
+    "sqFeet": 852,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 120,
+    "ownerName": "Marita Halleday",
+    "contactPersonName": "Lorelle Itscowicz",
+    "mobileNo": "610-598-8947",
+    "wpNo": "225-433-9165",
+    "city": "Changtang",
+    "area": "High Crossing",
+    "approxValue": 98217,
+    "sqFeet": 413,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 121,
+    "ownerName": "Layney Walkinshaw",
+    "contactPersonName": "Lizzy Espie",
+    "mobileNo": "536-782-6614",
+    "wpNo": "482-759-2999",
+    "city": "Kiel",
+    "area": "Manitowish",
+    "approxValue": 89150,
+    "sqFeet": 865,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 122,
+    "ownerName": "Cornelia Kneal",
+    "contactPersonName": "Gil Ovendon",
+    "mobileNo": "603-294-3240",
+    "wpNo": "425-659-9378",
+    "city": "Sawahan",
+    "area": "Scott",
+    "approxValue": 50952,
+    "sqFeet": 341,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 123,
+    "ownerName": "Justinian Taill",
+    "contactPersonName": "Vanni Sleeman",
+    "mobileNo": "442-662-9877",
+    "wpNo": "367-742-3038",
+    "city": "Dřevohostice",
+    "area": "Meadow Valley",
+    "approxValue": 167048,
+    "sqFeet": 1836,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 124,
+    "ownerName": "Dom Renachowski",
+    "contactPersonName": "Adelina Demkowicz",
+    "mobileNo": "806-510-4958",
+    "wpNo": "884-794-1445",
+    "city": "Potštát",
+    "area": "Trailsway",
+    "approxValue": 42766,
+    "sqFeet": 1088,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 125,
+    "ownerName": "Yolane Tremberth",
+    "contactPersonName": "Emanuele Bence",
+    "mobileNo": "467-980-0897",
+    "wpNo": "538-193-9677",
+    "city": "Sirājganj",
+    "area": "Upham",
+    "approxValue": 47475,
+    "sqFeet": 425,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 126,
+    "ownerName": "Josephine Ugo",
+    "contactPersonName": "Minta Reignolds",
+    "mobileNo": "195-446-2376",
+    "wpNo": "901-782-3949",
+    "city": "Qal‘ah-ye Shahr",
+    "area": "Bonner",
+    "approxValue": 20730,
+    "sqFeet": 1137,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 127,
+    "ownerName": "Johnna Cheeseman",
+    "contactPersonName": "Alla Millar",
+    "mobileNo": "956-711-1318",
+    "wpNo": "182-703-3685",
+    "city": "Guayaramerín",
+    "area": "Trailsway",
+    "approxValue": 196586,
+    "sqFeet": 277,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 128,
+    "ownerName": "Spence McDuffie",
+    "contactPersonName": "Antonin Crayden",
+    "mobileNo": "936-363-1970",
+    "wpNo": "799-652-9636",
+    "city": "Shushi",
+    "area": "Lunder",
+    "approxValue": 132643,
+    "sqFeet": 1682,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 129,
+    "ownerName": "Darren Waslin",
+    "contactPersonName": "Jazmin Shann",
+    "mobileNo": "939-958-1442",
+    "wpNo": "518-100-7952",
+    "city": "Bentar",
+    "area": "Hansons",
+    "approxValue": 98812,
+    "sqFeet": 871,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 130,
+    "ownerName": "Agnese Coverly",
+    "contactPersonName": "Donnajean Rillstone",
+    "mobileNo": "553-708-0264",
+    "wpNo": "636-302-3473",
+    "city": "Saint-Lô",
+    "area": "Armistice",
+    "approxValue": 77051,
+    "sqFeet": 1797,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 131,
+    "ownerName": "Drona Feaveer",
+    "contactPersonName": "Arni Blanque",
+    "mobileNo": "216-545-9274",
+    "wpNo": "662-905-9552",
+    "city": "Arroyo Seco",
+    "area": "Hudson",
+    "approxValue": 144519,
+    "sqFeet": 523,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 132,
+    "ownerName": "Harlen Dannehl",
+    "contactPersonName": "Ferrell Larciere",
+    "mobileNo": "922-640-3287",
+    "wpNo": "505-702-2704",
+    "city": "Tarrafal",
+    "area": "Riverside",
+    "approxValue": 35600,
+    "sqFeet": 997,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 133,
+    "ownerName": "Giorgia Darracott",
+    "contactPersonName": "Ellary Streeten",
+    "mobileNo": "884-120-1049",
+    "wpNo": "821-811-1403",
+    "city": "Runaway Bay",
+    "area": "Summerview",
+    "approxValue": 149054,
+    "sqFeet": 1261,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 134,
+    "ownerName": "Clara Tesauro",
+    "contactPersonName": "Millicent Stonestreet",
+    "mobileNo": "169-718-0128",
+    "wpNo": "757-391-0792",
+    "city": "La Ronge",
+    "area": "Garrison",
+    "approxValue": 162142,
+    "sqFeet": 1199,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 135,
+    "ownerName": "Marti Dahlborg",
+    "contactPersonName": "Lianne Stripp",
+    "mobileNo": "712-854-5077",
+    "wpNo": "770-360-7571",
+    "city": "Matoupu",
+    "area": "Butterfield",
+    "approxValue": 20098,
+    "sqFeet": 1507,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 136,
+    "ownerName": "Urban Durtnell",
+    "contactPersonName": "Early Zanolli",
+    "mobileNo": "444-824-6847",
+    "wpNo": "675-291-1389",
+    "city": "Sebulu",
+    "area": "Tennessee",
+    "approxValue": 33377,
+    "sqFeet": 1125,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 137,
+    "ownerName": "Xena Laverock",
+    "contactPersonName": "Yanaton Miguel",
+    "mobileNo": "862-172-0302",
+    "wpNo": "624-138-0759",
+    "city": "Fontainebleau",
+    "area": "Blaine",
+    "approxValue": 50199,
+    "sqFeet": 825,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 138,
+    "ownerName": "Maddy MacDonogh",
+    "contactPersonName": "Putnam Screach",
+    "mobileNo": "643-464-4896",
+    "wpNo": "790-498-5732",
+    "city": "Georgetown",
+    "area": "Barnett",
+    "approxValue": 121424,
+    "sqFeet": 622,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 139,
+    "ownerName": "Jillie Knightsbridge",
+    "contactPersonName": "Alastair Dryden",
+    "mobileNo": "661-376-0429",
+    "wpNo": "344-920-0382",
+    "city": "Skole",
+    "area": "Toban",
+    "approxValue": 115341,
+    "sqFeet": 1376,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 140,
+    "ownerName": "Clerissa Rolfo",
+    "contactPersonName": "Aloin Horribine",
+    "mobileNo": "750-743-2102",
+    "wpNo": "343-572-7117",
+    "city": "Nguluhan",
+    "area": "Mallard",
+    "approxValue": 37839,
+    "sqFeet": 1957,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 141,
+    "ownerName": "Maybelle Wigg",
+    "contactPersonName": "Clark Melonby",
+    "mobileNo": "904-476-6497",
+    "wpNo": "356-450-4999",
+    "city": "Puyung",
+    "area": "Bluejay",
+    "approxValue": 117417,
+    "sqFeet": 432,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 142,
+    "ownerName": "Fonz Overland",
+    "contactPersonName": "Pooh Darnell",
+    "mobileNo": "922-770-8268",
+    "wpNo": "686-272-5607",
+    "city": "Strasbourg",
+    "area": "Reinke",
+    "approxValue": 66580,
+    "sqFeet": 799,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 143,
+    "ownerName": "Jason Bowle",
+    "contactPersonName": "Florence Ridesdale",
+    "mobileNo": "531-725-9276",
+    "wpNo": "769-327-7927",
+    "city": "Babagan",
+    "area": "Carioca",
+    "approxValue": 89252,
+    "sqFeet": 919,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 144,
+    "ownerName": "Kynthia Buttrum",
+    "contactPersonName": "Bridgette Trumpeter",
+    "mobileNo": "344-188-3633",
+    "wpNo": "661-214-8368",
+    "city": "Olupona",
+    "area": "Hayes",
+    "approxValue": 76971,
+    "sqFeet": 295,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 145,
+    "ownerName": "Alex Basile",
+    "contactPersonName": "Doris de Amaya",
+    "mobileNo": "667-453-6865",
+    "wpNo": "928-957-9021",
+    "city": "Tečovice",
+    "area": "Shelley",
+    "approxValue": 181057,
+    "sqFeet": 1009,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 146,
+    "ownerName": "Grace Mullis",
+    "contactPersonName": "Dari Sturgis",
+    "mobileNo": "390-979-7937",
+    "wpNo": "152-478-4690",
+    "city": "Hongyi",
+    "area": "Maywood",
+    "approxValue": 138799,
+    "sqFeet": 1810,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 147,
+    "ownerName": "Kathryne Fitzroy",
+    "contactPersonName": "Juana Sawer",
+    "mobileNo": "700-109-2965",
+    "wpNo": "991-192-8415",
+    "city": "Gaya",
+    "area": "Valley Edge",
+    "approxValue": 153422,
+    "sqFeet": 1654,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 148,
+    "ownerName": "Porty St. Aubyn",
+    "contactPersonName": "Angy Tebald",
+    "mobileNo": "444-581-7267",
+    "wpNo": "144-231-6625",
+    "city": "Chengyang",
+    "area": "Delladonna",
+    "approxValue": 59362,
+    "sqFeet": 393,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 149,
+    "ownerName": "Adria Lammertz",
+    "contactPersonName": "Adriane Weatherburn",
+    "mobileNo": "443-701-5368",
+    "wpNo": "678-820-0968",
+    "city": "Zharkent",
+    "area": "Dwight",
+    "approxValue": 131461,
+    "sqFeet": 586,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 150,
+    "ownerName": "Claudette Zaniolini",
+    "contactPersonName": "Timofei Titterrell",
+    "mobileNo": "948-108-2600",
+    "wpNo": "721-934-9115",
+    "city": "Rizal",
+    "area": "Westport",
+    "approxValue": 131074,
+    "sqFeet": 1050,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 151,
+    "ownerName": "Mortimer Veryan",
+    "contactPersonName": "Cherrita English",
+    "mobileNo": "738-423-5304",
+    "wpNo": "417-592-4264",
+    "city": "Ludvika",
+    "area": "Melrose",
+    "approxValue": 28111,
+    "sqFeet": 657,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 152,
+    "ownerName": "Margareta Farlamb",
+    "contactPersonName": "Millisent Mooreed",
+    "mobileNo": "311-789-9774",
+    "wpNo": "330-775-0645",
+    "city": "Kaiyun",
+    "area": "Kinsman",
+    "approxValue": 49883,
+    "sqFeet": 519,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 153,
+    "ownerName": "Shelbi Greiswood",
+    "contactPersonName": "Leeland Lyness",
+    "mobileNo": "480-451-6655",
+    "wpNo": "520-728-6172",
+    "city": "Jibiya",
+    "area": "Pankratz",
+    "approxValue": 84572,
+    "sqFeet": 682,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 154,
+    "ownerName": "Celestine Gapper",
+    "contactPersonName": "Allyn Tweede",
+    "mobileNo": "189-829-9090",
+    "wpNo": "285-869-7246",
+    "city": "Crauthem",
+    "area": "Havey",
+    "approxValue": 153186,
+    "sqFeet": 1206,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 155,
+    "ownerName": "Merrill Wicklin",
+    "contactPersonName": "Briana Leworthy",
+    "mobileNo": "729-606-4339",
+    "wpNo": "616-552-2723",
+    "city": "Cancas",
+    "area": "Meadow Ridge",
+    "approxValue": 115150,
+    "sqFeet": 759,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 156,
+    "ownerName": "Deeann Maddams",
+    "contactPersonName": "Charmaine Illesley",
+    "mobileNo": "303-735-8577",
+    "wpNo": "547-832-9948",
+    "city": "Aurora",
+    "area": "Burning Wood",
+    "approxValue": 176628,
+    "sqFeet": 666,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 157,
+    "ownerName": "Valentina Acreman",
+    "contactPersonName": "Marjie Ridde",
+    "mobileNo": "123-200-3927",
+    "wpNo": "652-149-6193",
+    "city": "Volosovo",
+    "area": "Gina",
+    "approxValue": 28415,
+    "sqFeet": 1398,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 158,
+    "ownerName": "Jonie Gallety",
+    "contactPersonName": "Ollie Creeber",
+    "mobileNo": "973-484-6856",
+    "wpNo": "674-943-7672",
+    "city": "Geneina",
+    "area": "Graceland",
+    "approxValue": 194085,
+    "sqFeet": 1678,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 159,
+    "ownerName": "Bertine Hailey",
+    "contactPersonName": "Derrick Laroux",
+    "mobileNo": "799-632-5080",
+    "wpNo": "134-709-2713",
+    "city": "Bayt Dajan",
+    "area": "Mitchell",
+    "approxValue": 193940,
+    "sqFeet": 1959,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 160,
+    "ownerName": "Alayne Boss",
+    "contactPersonName": "Leoline Pennini",
+    "mobileNo": "600-119-4753",
+    "wpNo": "395-163-5537",
+    "city": "Gucheng",
+    "area": "Nancy",
+    "approxValue": 26109,
+    "sqFeet": 1098,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 161,
+    "ownerName": "Stanleigh Polfer",
+    "contactPersonName": "Lauren Baxandall",
+    "mobileNo": "441-178-2174",
+    "wpNo": "598-346-0842",
+    "city": "Ar Ruţbah",
+    "area": "Grim",
+    "approxValue": 104098,
+    "sqFeet": 1215,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 162,
+    "ownerName": "Booth Haskell",
+    "contactPersonName": "Algernon Camillo",
+    "mobileNo": "313-842-7335",
+    "wpNo": "931-884-0082",
+    "city": "Eišiškės",
+    "area": "Superior",
+    "approxValue": 142762,
+    "sqFeet": 625,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 163,
+    "ownerName": "Daveen Awcock",
+    "contactPersonName": "Irvine Hush",
+    "mobileNo": "769-748-2370",
+    "wpNo": "224-502-7099",
+    "city": "Chavusy",
+    "area": "Artisan",
+    "approxValue": 182476,
+    "sqFeet": 336,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 164,
+    "ownerName": "Katina Martynov",
+    "contactPersonName": "Laurene Bleibaum",
+    "mobileNo": "723-573-6353",
+    "wpNo": "955-793-3144",
+    "city": "Gardinovci",
+    "area": "Miller",
+    "approxValue": 104426,
+    "sqFeet": 1312,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 165,
+    "ownerName": "Sammy Woodhouse",
+    "contactPersonName": "Hamlen Jersh",
+    "mobileNo": "472-589-4722",
+    "wpNo": "565-251-9575",
+    "city": "Coutances",
+    "area": "Cody",
+    "approxValue": 119968,
+    "sqFeet": 978,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 166,
+    "ownerName": "Case Bulbeck",
+    "contactPersonName": "Clio Tilt",
+    "mobileNo": "181-488-4530",
+    "wpNo": "665-799-1920",
+    "city": "Uritsk",
+    "area": "Northfield",
+    "approxValue": 127495,
+    "sqFeet": 318,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 167,
+    "ownerName": "Adele Lauret",
+    "contactPersonName": "Casie Wasylkiewicz",
+    "mobileNo": "602-598-5617",
+    "wpNo": "207-165-4838",
+    "city": "Gorno Orizari",
+    "area": "Erie",
+    "approxValue": 28828,
+    "sqFeet": 1872,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 168,
+    "ownerName": "Lillis Ffrench",
+    "contactPersonName": "Saidee Creelman",
+    "mobileNo": "820-685-8153",
+    "wpNo": "575-496-0182",
+    "city": "Villaviciosa",
+    "area": "Sunbrook",
+    "approxValue": 35109,
+    "sqFeet": 1424,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 169,
+    "ownerName": "Anjela Hardacre",
+    "contactPersonName": "Salomi Jilliss",
+    "mobileNo": "764-235-3073",
+    "wpNo": "259-190-3660",
+    "city": "Karangtengah",
+    "area": "Huxley",
+    "approxValue": 155184,
+    "sqFeet": 1103,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 170,
+    "ownerName": "Kacy Reinard",
+    "contactPersonName": "Putnam Fiander",
+    "mobileNo": "717-527-5037",
+    "wpNo": "966-631-9126",
+    "city": "Heshi",
+    "area": "Namekagon",
+    "approxValue": 59116,
+    "sqFeet": 1415,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 171,
+    "ownerName": "Christy Traviss",
+    "contactPersonName": "Valdemar Ambroix",
+    "mobileNo": "191-905-9111",
+    "wpNo": "498-164-8052",
+    "city": "Petrolina de Goiás",
+    "area": "Mitchell",
+    "approxValue": 159335,
+    "sqFeet": 1437,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 172,
+    "ownerName": "Lindi Cumberpatch",
+    "contactPersonName": "Ted Cirlos",
+    "mobileNo": "854-312-8905",
+    "wpNo": "113-115-7219",
+    "city": "Adelaide Mail Centre",
+    "area": "Mariners Cove",
+    "approxValue": 23366,
+    "sqFeet": 1064,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 173,
+    "ownerName": "Bliss Peery",
+    "contactPersonName": "Cecil Ivannikov",
+    "mobileNo": "461-120-5109",
+    "wpNo": "367-816-1515",
+    "city": "Mó",
+    "area": "Hooker",
+    "approxValue": 192452,
+    "sqFeet": 866,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 174,
+    "ownerName": "Austine Tillman",
+    "contactPersonName": "Timmie Swinyard",
+    "mobileNo": "102-654-9465",
+    "wpNo": "865-473-9595",
+    "city": "Roissy Charles-de-Gaulle",
+    "area": "Hollow Ridge",
+    "approxValue": 62912,
+    "sqFeet": 390,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 175,
+    "ownerName": "Logan Cammis",
+    "contactPersonName": "Buddie Houtby",
+    "mobileNo": "972-527-2131",
+    "wpNo": "863-947-5248",
+    "city": "Keboireng",
+    "area": "Caliangt",
+    "approxValue": 149585,
+    "sqFeet": 1790,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 176,
+    "ownerName": "Brittney Nanetti",
+    "contactPersonName": "Lorene Dovinson",
+    "mobileNo": "420-303-4007",
+    "wpNo": "266-479-4017",
+    "city": "Barda",
+    "area": "Dorton",
+    "approxValue": 181286,
+    "sqFeet": 1363,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 177,
+    "ownerName": "Taffy Swanborough",
+    "contactPersonName": "Zechariah Lavin",
+    "mobileNo": "258-819-9896",
+    "wpNo": "169-412-4498",
+    "city": "Ulyanovsk",
+    "area": "Scoville",
+    "approxValue": 49224,
+    "sqFeet": 830,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 178,
+    "ownerName": "Natasha Fibbens",
+    "contactPersonName": "Torry Marsland",
+    "mobileNo": "753-204-4704",
+    "wpNo": "940-946-0560",
+    "city": "Vostok",
+    "area": "Montana",
+    "approxValue": 92870,
+    "sqFeet": 566,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 179,
+    "ownerName": "Eberhard Delouch",
+    "contactPersonName": "Reilly Ogger",
+    "mobileNo": "142-640-8399",
+    "wpNo": "164-105-5718",
+    "city": "Heshui",
+    "area": "Carberry",
+    "approxValue": 128366,
+    "sqFeet": 664,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 180,
+    "ownerName": "Brendis Toplin",
+    "contactPersonName": "Tess Baxster",
+    "mobileNo": "708-476-2720",
+    "wpNo": "987-490-8028",
+    "city": "Villa Concepción del Tío",
+    "area": "Moose",
+    "approxValue": 150076,
+    "sqFeet": 1092,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 181,
+    "ownerName": "Finn Gligoraci",
+    "contactPersonName": "Payton Vizor",
+    "mobileNo": "239-797-9557",
+    "wpNo": "491-915-9169",
+    "city": "Kungsbacka",
+    "area": "Cambridge",
+    "approxValue": 76005,
+    "sqFeet": 1832,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 182,
+    "ownerName": "Franchot Woffinden",
+    "contactPersonName": "Hope O'Doran",
+    "mobileNo": "534-273-4717",
+    "wpNo": "837-958-4417",
+    "city": "Gelatik",
+    "area": "Kensington",
+    "approxValue": 145650,
+    "sqFeet": 252,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 183,
+    "ownerName": "Carr Annis",
+    "contactPersonName": "Abbi Riddoch",
+    "mobileNo": "528-589-4619",
+    "wpNo": "193-941-2620",
+    "city": "Anyu",
+    "area": "Clemons",
+    "approxValue": 49778,
+    "sqFeet": 1330,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 184,
+    "ownerName": "Sydney MacAlpyne",
+    "contactPersonName": "Jeanna Kraut",
+    "mobileNo": "815-559-8294",
+    "wpNo": "788-641-1001",
+    "city": "Tanxi",
+    "area": "Norway Maple",
+    "approxValue": 117534,
+    "sqFeet": 260,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 185,
+    "ownerName": "Arlette Charlo",
+    "contactPersonName": "Etty Klimochkin",
+    "mobileNo": "816-686-8777",
+    "wpNo": "669-536-5706",
+    "city": "Pyhäranta",
+    "area": "3rd",
+    "approxValue": 191322,
+    "sqFeet": 735,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 186,
+    "ownerName": "Lucila Zanotti",
+    "contactPersonName": "Gay Lindborg",
+    "mobileNo": "372-812-0459",
+    "wpNo": "596-543-4417",
+    "city": "Quyangqiao",
+    "area": "Debs",
+    "approxValue": 94176,
+    "sqFeet": 762,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 187,
+    "ownerName": "Leola Goodliffe",
+    "contactPersonName": "Parrnell Calcott",
+    "mobileNo": "383-642-6365",
+    "wpNo": "163-582-8596",
+    "city": "Pallasovka",
+    "area": "Sloan",
+    "approxValue": 138260,
+    "sqFeet": 1615,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 188,
+    "ownerName": "Valaree Emer",
+    "contactPersonName": "Granville Gwatkin",
+    "mobileNo": "966-819-1030",
+    "wpNo": "953-943-1652",
+    "city": "Lidköping",
+    "area": "Straubel",
+    "approxValue": 21751,
+    "sqFeet": 1682,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 189,
+    "ownerName": "Torre Robben",
+    "contactPersonName": "Vaughan Lagadu",
+    "mobileNo": "438-462-2885",
+    "wpNo": "393-652-8347",
+    "city": "Faratsiho",
+    "area": "5th",
+    "approxValue": 56749,
+    "sqFeet": 1021,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 190,
+    "ownerName": "Shelby Banger",
+    "contactPersonName": "Linn Cutchee",
+    "mobileNo": "642-942-9417",
+    "wpNo": "424-411-5483",
+    "city": "Mopipi",
+    "area": "Talisman",
+    "approxValue": 111846,
+    "sqFeet": 1624,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 191,
+    "ownerName": "Rosalind Thynn",
+    "contactPersonName": "Lynsey Lornsen",
+    "mobileNo": "431-705-1967",
+    "wpNo": "239-991-0701",
+    "city": "Danyang",
+    "area": "Artisan",
+    "approxValue": 172656,
+    "sqFeet": 1420,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 192,
+    "ownerName": "Clair Picopp",
+    "contactPersonName": "Carleen Howden",
+    "mobileNo": "332-154-8162",
+    "wpNo": "973-892-3601",
+    "city": "Keroka",
+    "area": "Talisman",
+    "approxValue": 114710,
+    "sqFeet": 1116,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 193,
+    "ownerName": "Caty Hansen",
+    "contactPersonName": "Abbey Carmel",
+    "mobileNo": "637-210-1170",
+    "wpNo": "148-929-3516",
+    "city": "Balingoan",
+    "area": "Graceland",
+    "approxValue": 103874,
+    "sqFeet": 1951,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 194,
+    "ownerName": "Christopher Futter",
+    "contactPersonName": "Debbie Ragbourne",
+    "mobileNo": "648-924-0960",
+    "wpNo": "603-204-8579",
+    "city": "Kafr ash Shaykh",
+    "area": "Dixon",
+    "approxValue": 80503,
+    "sqFeet": 435,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 195,
+    "ownerName": "Goldina Barkus",
+    "contactPersonName": "Hollis Lemonby",
+    "mobileNo": "455-786-1628",
+    "wpNo": "541-262-8129",
+    "city": "Venustiano Carranza",
+    "area": "Hollow Ridge",
+    "approxValue": 40707,
+    "sqFeet": 902,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 196,
+    "ownerName": "Eugenius Habershon",
+    "contactPersonName": "Althea Kenworth",
+    "mobileNo": "551-361-0158",
+    "wpNo": "426-237-7273",
+    "city": "Tortosendo",
+    "area": "Pepper Wood",
+    "approxValue": 38971,
+    "sqFeet": 1613,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 197,
+    "ownerName": "Sissy Portwain",
+    "contactPersonName": "Erroll Rambaut",
+    "mobileNo": "713-954-2329",
+    "wpNo": "178-312-6864",
+    "city": "Spring",
+    "area": "Utah",
+    "approxValue": 59434,
+    "sqFeet": 1107,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 198,
+    "ownerName": "Gerik Rimer",
+    "contactPersonName": "Elspeth Ales0",
+    "mobileNo": "892-880-1337",
+    "wpNo": "190-933-3530",
+    "city": "Frederiksberg",
+    "area": "Kedzie",
+    "approxValue": 34410,
+    "sqFeet": 1268,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 199,
+    "ownerName": "Mercie Swinglehurst",
+    "contactPersonName": "Deedee Tant",
+    "mobileNo": "998-881-8724",
+    "wpNo": "416-712-9981",
+    "city": "Kadugede",
+    "area": "Golf View",
+    "approxValue": 89907,
+    "sqFeet": 460,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 200,
+    "ownerName": "Urbanus Butchard",
+    "contactPersonName": "Enos Brookshaw",
+    "mobileNo": "414-786-3338",
+    "wpNo": "173-374-4396",
+    "city": "Старо Нагоричане",
+    "area": "Bunting",
+    "approxValue": 117116,
+    "sqFeet": 1020,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 201,
+    "ownerName": "Aliza Sawden",
+    "contactPersonName": "Vergil Eckersall",
+    "mobileNo": "913-866-8049",
+    "wpNo": "565-895-1389",
+    "city": "Lubao",
+    "area": "Straubel",
+    "approxValue": 120036,
+    "sqFeet": 1459,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 202,
+    "ownerName": "Valle Hodge",
+    "contactPersonName": "Gisella Livard",
+    "mobileNo": "830-905-0259",
+    "wpNo": "703-516-4648",
+    "city": "Tõrva",
+    "area": "Fisk",
+    "approxValue": 108440,
+    "sqFeet": 1926,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 203,
+    "ownerName": "Fernande Pettisall",
+    "contactPersonName": "Wendi Rottgers",
+    "mobileNo": "567-421-3643",
+    "wpNo": "688-301-9124",
+    "city": "Batugede Kulon",
+    "area": "Brickson Park",
+    "approxValue": 156401,
+    "sqFeet": 364,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 204,
+    "ownerName": "Felicdad Brockie",
+    "contactPersonName": "Nilson Atkinson",
+    "mobileNo": "866-372-2902",
+    "wpNo": "965-510-4564",
+    "city": "Brzozów",
+    "area": "Troy",
+    "approxValue": 143641,
+    "sqFeet": 777,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 205,
+    "ownerName": "Marketa Hasser",
+    "contactPersonName": "Tabb Ivanov",
+    "mobileNo": "728-872-0245",
+    "wpNo": "412-354-9810",
+    "city": "Tío Pujio",
+    "area": "Golf",
+    "approxValue": 57146,
+    "sqFeet": 632,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 206,
+    "ownerName": "Marsha Arnaldy",
+    "contactPersonName": "Felike Rosekilly",
+    "mobileNo": "355-140-9661",
+    "wpNo": "341-113-9042",
+    "city": "São Bento do Sul",
+    "area": "Prentice",
+    "approxValue": 37224,
+    "sqFeet": 462,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 207,
+    "ownerName": "Halie Surr",
+    "contactPersonName": "Lucila Commusso",
+    "mobileNo": "124-892-1849",
+    "wpNo": "490-997-6209",
+    "city": "Ocaña",
+    "area": "Miller",
+    "approxValue": 37428,
+    "sqFeet": 571,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 208,
+    "ownerName": "Mara Yegorov",
+    "contactPersonName": "Brandyn Cockshutt",
+    "mobileNo": "177-846-5092",
+    "wpNo": "846-317-5348",
+    "city": "Wulijie",
+    "area": "Burrows",
+    "approxValue": 38290,
+    "sqFeet": 554,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 209,
+    "ownerName": "Yancy Dymock",
+    "contactPersonName": "Sheppard Leyfield",
+    "mobileNo": "318-114-1530",
+    "wpNo": "575-808-6706",
+    "city": "Yakutsk",
+    "area": "Kingsford",
+    "approxValue": 71962,
+    "sqFeet": 375,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 210,
+    "ownerName": "Teddi Sorrie",
+    "contactPersonName": "Lilas Nutbean",
+    "mobileNo": "883-245-7149",
+    "wpNo": "647-463-0414",
+    "city": "Al ‘Azīzīyah",
+    "area": "Pierstorff",
+    "approxValue": 36686,
+    "sqFeet": 639,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 211,
+    "ownerName": "Sheila-kathryn Szanto",
+    "contactPersonName": "Harv McGirr",
+    "mobileNo": "470-708-9358",
+    "wpNo": "767-170-5496",
+    "city": "Ilām",
+    "area": "Utah",
+    "approxValue": 155506,
+    "sqFeet": 589,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 212,
+    "ownerName": "Loreen Alu",
+    "contactPersonName": "Carmelia Sephton",
+    "mobileNo": "233-516-8971",
+    "wpNo": "736-367-5172",
+    "city": "Dnipryany",
+    "area": "Scoville",
+    "approxValue": 22261,
+    "sqFeet": 1926,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 213,
+    "ownerName": "Shalne Corbin",
+    "contactPersonName": "Octavius Nettle",
+    "mobileNo": "289-847-4607",
+    "wpNo": "419-919-5634",
+    "city": "General Conesa",
+    "area": "Nova",
+    "approxValue": 105842,
+    "sqFeet": 1345,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 214,
+    "ownerName": "Chris enzley",
+    "contactPersonName": "Kristy Brake",
+    "mobileNo": "549-870-4433",
+    "wpNo": "742-239-5336",
+    "city": "Västra Frölunda",
+    "area": "Morningstar",
+    "approxValue": 179804,
+    "sqFeet": 460,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 215,
+    "ownerName": "Danya Fray",
+    "contactPersonName": "Leroi Mathe",
+    "mobileNo": "390-337-8935",
+    "wpNo": "656-895-0480",
+    "city": "Xuebu",
+    "area": "Lotheville",
+    "approxValue": 112247,
+    "sqFeet": 1505,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 216,
+    "ownerName": "Koenraad Daal",
+    "contactPersonName": "Rita Hawkshaw",
+    "mobileNo": "198-755-8779",
+    "wpNo": "202-926-4744",
+    "city": "Orguz",
+    "area": "Blue Bill Park",
+    "approxValue": 69683,
+    "sqFeet": 1169,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 217,
+    "ownerName": "Ashby Trump",
+    "contactPersonName": "Clerkclaude Timmens",
+    "mobileNo": "211-114-0764",
+    "wpNo": "152-419-7813",
+    "city": "Rokietnica",
+    "area": "Hansons",
+    "approxValue": 173019,
+    "sqFeet": 1833,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 218,
+    "ownerName": "Antonio Edelheit",
+    "contactPersonName": "Arney Hyman",
+    "mobileNo": "735-414-8130",
+    "wpNo": "245-137-1273",
+    "city": "Turmi",
+    "area": "Westend",
+    "approxValue": 39506,
+    "sqFeet": 1487,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 219,
+    "ownerName": "Blaine Pellman",
+    "contactPersonName": "Corinna Gras",
+    "mobileNo": "621-501-7264",
+    "wpNo": "751-907-8819",
+    "city": "Boshkengash",
+    "area": "Holy Cross",
+    "approxValue": 21900,
+    "sqFeet": 1473,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 220,
+    "ownerName": "Valina Weblin",
+    "contactPersonName": "Erma Janecek",
+    "mobileNo": "926-194-6797",
+    "wpNo": "216-491-2083",
+    "city": "Lutomiersk",
+    "area": "Norway Maple",
+    "approxValue": 151161,
+    "sqFeet": 1927,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 221,
+    "ownerName": "Rhiamon Gersam",
+    "contactPersonName": "Werner Everil",
+    "mobileNo": "471-450-1373",
+    "wpNo": "690-909-9017",
+    "city": "Tianhekou",
+    "area": "Sycamore",
+    "approxValue": 180782,
+    "sqFeet": 1639,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 222,
+    "ownerName": "Jazmin Allonby",
+    "contactPersonName": "Matthias Bonnin",
+    "mobileNo": "558-834-2598",
+    "wpNo": "345-958-0051",
+    "city": "Faruka",
+    "area": "Forest Run",
+    "approxValue": 59296,
+    "sqFeet": 1795,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 223,
+    "ownerName": "Orelle Chave",
+    "contactPersonName": "Melonie Sitford",
+    "mobileNo": "522-746-4418",
+    "wpNo": "415-420-8253",
+    "city": "Bến Tre",
+    "area": "Maywood",
+    "approxValue": 87992,
+    "sqFeet": 1432,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 224,
+    "ownerName": "Peder January",
+    "contactPersonName": "Ody Buckmaster",
+    "mobileNo": "648-439-7414",
+    "wpNo": "484-264-8944",
+    "city": "Granica",
+    "area": "Kennedy",
+    "approxValue": 151249,
+    "sqFeet": 1899,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 225,
+    "ownerName": "Alano Perkin",
+    "contactPersonName": "Fedora Mastrantone",
+    "mobileNo": "537-527-2259",
+    "wpNo": "507-752-9364",
+    "city": "Västra Frölunda",
+    "area": "Blue Bill Park",
+    "approxValue": 35495,
+    "sqFeet": 1835,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 226,
+    "ownerName": "Shanie Janacek",
+    "contactPersonName": "Barnie Laible",
+    "mobileNo": "787-591-7719",
+    "wpNo": "155-510-3891",
+    "city": "Mnich",
+    "area": "Steensland",
+    "approxValue": 102631,
+    "sqFeet": 1017,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 227,
+    "ownerName": "Sheryl Goudman",
+    "contactPersonName": "Bevvy Pedder",
+    "mobileNo": "980-302-6665",
+    "wpNo": "520-725-4674",
+    "city": "Jiangwei",
+    "area": "Summerview",
+    "approxValue": 91519,
+    "sqFeet": 579,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 228,
+    "ownerName": "Beverie Prisley",
+    "contactPersonName": "Marcy Collisson",
+    "mobileNo": "634-490-2840",
+    "wpNo": "328-586-3253",
+    "city": "Capela",
+    "area": "Del Sol",
+    "approxValue": 151182,
+    "sqFeet": 1855,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 3",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 229,
+    "ownerName": "Ofella Frowen",
+    "contactPersonName": "Julius Mannock",
+    "mobileNo": "254-508-4320",
+    "wpNo": "548-913-7158",
+    "city": "Valašská Polanka",
+    "area": "Trailsway",
+    "approxValue": 123345,
+    "sqFeet": 682,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 230,
+    "ownerName": "Aline Giamelli",
+    "contactPersonName": "Karrah Ilyenko",
+    "mobileNo": "645-951-2599",
+    "wpNo": "108-342-9452",
+    "city": "Papágou",
+    "area": "Dunning",
+    "approxValue": 66707,
+    "sqFeet": 1145,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 231,
+    "ownerName": "Robb Swadlinge",
+    "contactPersonName": "Klarika Franzini",
+    "mobileNo": "150-485-2072",
+    "wpNo": "779-878-4764",
+    "city": "Tsingoni",
+    "area": "Judy",
+    "approxValue": 48271,
+    "sqFeet": 1913,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 232,
+    "ownerName": "Amalita Govern",
+    "contactPersonName": "Clyde Norris",
+    "mobileNo": "126-154-6760",
+    "wpNo": "517-526-1121",
+    "city": "Sukaharja",
+    "area": "Hayes",
+    "approxValue": 25227,
+    "sqFeet": 1425,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 233,
+    "ownerName": "Andie Isoldi",
+    "contactPersonName": "Kathye Roggero",
+    "mobileNo": "829-385-5686",
+    "wpNo": "586-187-9107",
+    "city": "Lantera",
+    "area": "Kenwood",
+    "approxValue": 196067,
+    "sqFeet": 1000,
+    "propertyDetails": "a vestibulum dolor convallis in. Ut eget mi sit amet diam interdum dapibus ut sollicitudin tortor. Nunc rhoncus risus mi",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 234,
+    "ownerName": "Jammie MacTerrelly",
+    "contactPersonName": "Lacee Elgie",
+    "mobileNo": "986-727-8771",
+    "wpNo": "647-641-6565",
+    "city": "Venilale",
+    "area": "Thierer",
+    "approxValue": 132632,
+    "sqFeet": 1503,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 3",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 235,
+    "ownerName": "Olvan Postin",
+    "contactPersonName": "Johanna Methingam",
+    "mobileNo": "679-491-5116",
+    "wpNo": "178-350-5524",
+    "city": "Ágios Geórgios",
+    "area": "Manley",
+    "approxValue": 74449,
+    "sqFeet": 1269,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 236,
+    "ownerName": "Remus Rizzardo",
+    "contactPersonName": "Arte Appleton",
+    "mobileNo": "582-737-3764",
+    "wpNo": "426-692-7592",
+    "city": "Malāyer",
+    "area": "Fallview",
+    "approxValue": 104939,
+    "sqFeet": 1277,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 237,
+    "ownerName": "Kale Normant",
+    "contactPersonName": "Leonore Flohard",
+    "mobileNo": "817-600-2880",
+    "wpNo": "471-880-3356",
+    "city": "Nanyang",
+    "area": "Anzinger",
+    "approxValue": 100634,
+    "sqFeet": 1289,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 238,
+    "ownerName": "Say Foston",
+    "contactPersonName": "Palm Dripps",
+    "mobileNo": "329-161-3810",
+    "wpNo": "109-883-1435",
+    "city": "Guanzhuang",
+    "area": "Forest Dale",
+    "approxValue": 107981,
+    "sqFeet": 1229,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 239,
+    "ownerName": "Raddy Esch",
+    "contactPersonName": "Diahann Dabbs",
+    "mobileNo": "709-598-5714",
+    "wpNo": "366-168-4594",
+    "city": "Quinta",
+    "area": "Debs",
+    "approxValue": 166005,
+    "sqFeet": 1174,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 240,
+    "ownerName": "Judah Guwer",
+    "contactPersonName": "Alexander Dugmore",
+    "mobileNo": "442-615-1262",
+    "wpNo": "245-757-1571",
+    "city": "Blaye",
+    "area": "Eliot",
+    "approxValue": 75693,
+    "sqFeet": 1229,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 241,
+    "ownerName": "Viviene Ponting",
+    "contactPersonName": "Lauralee Prantoni",
+    "mobileNo": "422-897-8860",
+    "wpNo": "274-320-0287",
+    "city": "Viejo Daan Banua",
+    "area": "Fremont",
+    "approxValue": 117388,
+    "sqFeet": 729,
+    "propertyDetails": "Lorem ipsum dolor sit amet",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 242,
+    "ownerName": "Christy Reglar",
+    "contactPersonName": "Karoly Huchot",
+    "mobileNo": "276-443-0018",
+    "wpNo": "730-464-0687",
+    "city": "Ilesa",
+    "area": "Prairieview",
+    "approxValue": 158601,
+    "sqFeet": 1577,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 243,
+    "ownerName": "Birk Raffeorty",
+    "contactPersonName": "Craig Rosina",
+    "mobileNo": "245-503-4233",
+    "wpNo": "281-242-8668",
+    "city": "Zhaolingpu",
+    "area": "Crescent Oaks",
+    "approxValue": 74702,
+    "sqFeet": 1538,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 244,
+    "ownerName": "Garrick Cheater",
+    "contactPersonName": "Ara Newburn",
+    "mobileNo": "302-404-7659",
+    "wpNo": "574-848-4807",
+    "city": "Changtan",
+    "area": "Pawling",
+    "approxValue": 186300,
+    "sqFeet": 1447,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 3",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 245,
+    "ownerName": "Archibald Josefsohn",
+    "contactPersonName": "Cherie MacCurlye",
+    "mobileNo": "549-599-7054",
+    "wpNo": "468-499-9164",
+    "city": "Krajan Winong",
+    "area": "Eggendart",
+    "approxValue": 81738,
+    "sqFeet": 474,
+    "propertyDetails": "consectetur adipiscing elit. Pellentesque pretium ipsum ac leo facilisis cursus. In lobortis sodales nisl ac bibendum. Lorem ipsum dolor sit amet",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 246,
+    "ownerName": "Gaynor Kemish",
+    "contactPersonName": "Freddi Kubista",
+    "mobileNo": "637-597-7825",
+    "wpNo": "159-760-0769",
+    "city": "La Cesira",
+    "area": "Service",
+    "approxValue": 49787,
+    "sqFeet": 827,
+    "propertyDetails": "quis tempor est sodales eget. Integer suscipit erat a dapibus lobortis. Fusce eu scelerisque tortor. Fusce euismod placerat urna",
+    "buildupArea": "area 2",
+    "carpetArea": "area 2",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 247,
+    "ownerName": "Natividad Fahey",
+    "contactPersonName": "Grayce Muglestone",
+    "mobileNo": "584-370-2211",
+    "wpNo": "440-353-0041",
+    "city": "San Marcos",
+    "area": "Prairie Rose",
+    "approxValue": 37401,
+    "sqFeet": 802,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 2",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 248,
+    "ownerName": "Jacquie Tampling",
+    "contactPersonName": "Langston Climo",
+    "mobileNo": "290-161-1910",
+    "wpNo": "770-893-5074",
+    "city": "Runsonglaozhai",
+    "area": "Artisan",
+    "approxValue": 56754,
+    "sqFeet": 1165,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 249,
+    "ownerName": "Melinde De Mico",
+    "contactPersonName": "Bernette Allward",
+    "mobileNo": "653-148-1452",
+    "wpNo": "617-317-0847",
+    "city": "Bonthe",
+    "area": "Russell",
+    "approxValue": 61883,
+    "sqFeet": 263,
+    "propertyDetails": "in tristique elit luctus vitae. Nullam a tristique leo. Mauris congue rhoncus tortor a sagittis.",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Residential",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/5953210/pexels-photo-5953210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  },
+  {
+    "propertyCode": 250,
+    "ownerName": "Parke Bickford",
+    "contactPersonName": "Andreas Pharaoh",
+    "mobileNo": "498-397-5244",
+    "wpNo": "699-649-8594",
+    "city": "Carman",
+    "area": "Schurz",
+    "approxValue": 118701,
+    "sqFeet": 989,
+    "propertyDetails": "consectetur adipiscing elit. Integer ac ipsum vitae nibh porta porta. Vivamus a laoreet ipsum. Sed convallis a tortor id posuere. Ut varius ultrices lectus",
+    "buildupArea": "area 1",
+    "carpetArea": "area 1",
+    "category": "Commercial",
+    "propertyPhotos": [
+      "https://images.pexels.com/photos/6493936/pexels-photo-6493936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ]
+  }
+]

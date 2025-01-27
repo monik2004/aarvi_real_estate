@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Table</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-900 text-white">
+    <div class="container mx-auto p-4">
+        <h1 class="text-2xl font-bold mb-4">Property Table</h1>
+        <input type="text" id="searchInput" placeholder="Search by Property Code..." class="mb-4 p-2 w-full text-black">
+        <div class="overflow-x-auto">
+            <table class="min-w-full bg-gray-800 table-auto">
+                <thead>
+                    <tr>
+                        <th class="px-4 py-2">Property Code</th>
+                        <th class="px-4 py-2">Owner Name</th>
+                        <th class="px-4 py-2">Contact Person Name</th>
+                        <th class="px-4 py-2">Mobile No</th>
+                        <th class="px-4 py-2">WhatsApp No</th>
+                        <th class="px-4 py-2">City</th>
+                        <th class="px-4 py-2">Area</th>
+                        <th class="px-4 py-2">Approx Value</th>
+                        <th class="px-4 py-2">Sq Feet</th>
+                        <th class="px-4 py-2">Property Details</th>
+                        <th class="px-4 py-2">Buildup Area</th>
+                        <th class="px-4 py-2">Carpet Area</th>
+                        <th class="px-4 py-2">Category</th>
+                        <th class="px-4 py-2">Property Photos</th>
+                        <th class="px-4 py-2">Sell or Rent</th>
+                        <th class="px-4 py-2">Action</th>
+                    </tr>
+                </thead>
+                <tbody id="propertyTableBody">
+                    <!-- Data will be populated here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        const apiEndpoint = '/api/properties';
+
+        // Fetch data from the API
+        fetch(apiEndpoint)
+            .then(response => response.json())
+            .then(data => {
+                populateTable(data);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+
+        // Function to populate the table
+        function populateTable(data) {
+            const tableBody = document.getElementById('propertyTableBody');
+            tableBody.innerHTML = '';
+
+            data.forEach(property => {
+                const row = document.createElement('tr');
+
+                row.innerHTML = `
+                    <td class="border px-4 py-2">${property.propertyCode}</td>
+                    <td class="border px-4 py-2">${property.ownerName}</td>
+                    <td class="border px-4 py-2">${property.contactPersonName}</td>
+                    <td class="border px-4 py-2">${property.mobileNo}</td>
+                    <td class="border px-4 py-2">${property.wpNo}</td>
+                    <td class="border px-4 py-2">${property.city}</td>
+                    <td class="border px-4 py-2">${property.area}</td>
+                    <td class="border px-4 py-2">${property.approxValue}</td>
+                    <td class="border px-4 py-2">${property.sqFeet}</td>
+                    <td class="border px-4 py-2">${property.propertyDetails}</td>
+                    <td class="border px-4 py-2">${property.buildupArea}</td>
+                    <td class="border px-4 py-2">${property.carpetArea}</td>
+                    <td class="border px-4 py-2">${property.category}</td>
+                    <td class="border px-4 py-2"><img src="${property.propertyPhotos[0]}" alt="Property Photo" class="w-24"></td>
+                    <td class="border px-4 py-2">${property.sellOrRent}</td>
+                    <td class="border px-4 py-2"><button class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded" onclick="removeRow('${property.propertyCode}', this)">Remove</button></td>
+                `;
+
+                tableBody.appendChild(row);
+            });
+        }
+
+        // Function to remove a row from the table
+        function removeRow(id, button) {
+            fetch(`${apiEndpoint}/${id}`, {
+                method: 'DELETE',
+            })
+            .then(response => {
+                if (response.ok) {
+                    const row = button.parentNode.parentNode;
+                    row.parentNode.removeChild(row);
+                } else if (response.status === 404) {
+                    alert('Property not found');
+                } else {
+                    console.error('Error deleting property');
+                }
+            })
+            .catch(error => console.error('Error deleting property:', error));
+        }
+
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', function () {
+            const query = this.value.toLowerCase();
+            const rows = document.querySelectorAll('#propertyTableBody tr');
+
+            rows.forEach(row => {
+                const propertyCode = row.children[0].textContent.toLowerCase();
+                if (propertyCode.includes(query)) {
+                    row.style.display = '';
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

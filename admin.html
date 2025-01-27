@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-gray-100">
+    <div class="removeProperty"> <a href="/remove">Remove Property</a> </div>
+
+    <div class="container mx-auto p-4">
+        <h1 class="text-3xl font-bold mb-4">Admin Page</h1>
+        <table class="table-auto w-full">
+            <thead>
+                <tr>
+                    <th class="px-4 py-2">Owner Name</th>
+                    <th class="px-4 py-2">Contact Person Name</th>
+                    <th class="px-4 py-2">Mobile No</th>
+                    <th class="px-4 py-2">WhatsApp No</th>
+                    <th class="px-4 py-2">City</th>
+                    <th class="px-4 py-2">Area</th>
+                    <th class="px-4 py-2">Approx Value</th>
+                    <th class="px-4 py-2">Square Feet</th>
+                    <th class="px-4 py-2">Property Details</th>
+                    <th class="px-4 py-2">Build-up Area</th>
+                    <th class="px-4 py-2">Carpet Area</th>
+                    <th class="px-4 py-2">Category</th>
+                    <th class="px-4 py-2">Sell or Rent</th>
+                    <th class="px-4 py-2">Property Code</th>
+                    <th class="px-4 py-2">Date</th>
+                    <th class="px-4 py-2">Property Photos</th>
+                    <th class="px-4 py-2">Actions</th>
+                </tr>
+            </thead>
+            <tbody id="propertyTable">
+                <!-- Data will be inserted here -->
+            </tbody>
+        </table>
+    </div>
+    <script>
+ 
+ async function fetchProperties() {
+    try {
+        const response = await fetch('/api/admin/properties');
+        const properties = await response.json();
+        console.log(properties); // Debug: Log the fetched properties
+
+        const tableBody = document.getElementById('propertyTable');
+        tableBody.innerHTML = ''; // Clear previous results
+
+        properties.forEach(property => {
+            console.log(property); // Debug: Log each property
+            const row = document.createElement('tr');
+            const photos = (property.propertyPhotos || []).map(photo => `<img src="/uploads/${photo}" alt="Property Photo" class="w-20 mt-2 h-20 object-cover rounded-lg">`).join('');
+            const propertyDetails = property.propertyDetails ? property.propertyDetails.replace(/\n/g, '<br>') : '';
+
+            row.innerHTML = `
+                <td class="border px-4 py-2">${property.ownerName || ''}</td>
+                <td class="border px-4 py-2">${property.contactPersonName || ''}</td>
+                <td class="border px-4 py-2">${property.mobileNo || ''}</td>
+                <td class="border px-4 py-2">${property.wpNo || ''}</td>
+                <td class="border px-4 py-2">${property.city || ''}</td>
+                <td class="border px-4 py-2">${property.area || ''}</td>
+                <td class="border px-4 py-2">${property.approxValue || ''}</td>
+                <td class="border px-4 py-2">${property.sqFeet || ''}</td>
+                <td class="border px-4 py-2">${propertyDetails}</td>
+                <td class="border px-4 py-2">${property.buildupArea || ''}</td>
+                <td class="border px-4 py-2">${property.carpetArea || ''}</td>
+                <td class="border px-4 py-2">${property.category || ''}</td>
+                <td class="border px-4 py-2">${property.sellOrRent || ''}</td>
+                <td class="border px-4 py-2">${property.propertyCode || ''}</td>
+                <td class="border px-4 py-2">${property.date || ''}</td>
+                <td class="border px-4 py-2">${photos}</td>
+                <td class="border px-4 py-2">
+                    <button onclick="moveEntry('${property.propertyCode}')" class="bg-blue-400 h-5 px-2 rounded-lg cursor-pointer">
+                        Approve
+                    </button>
+                </td>
+            `;
+            tableBody.appendChild(row);
+        });
+    } catch (error) {
+        console.error('Error fetching properties:', error);
+    }
+}
+
+
+
+
+fetchProperties();
+
+        async function moveEntry(id) {
+            try {
+                const response = await fetch(`/api/move-entry/${id}`, { method: 'POST' });
+                const result = await response.json();
+                alert(result.message);
+                fetchProperties(); // Refresh the table
+            } catch (error) {
+                console.error('Error moving entry:', error);
+            }
+        }
+
+        fetchProperties();
+    </script>
+</body>
+</html>

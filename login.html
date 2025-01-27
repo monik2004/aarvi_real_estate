@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .btn-custom {
+            border-color: #615eff;
+            color: #615eff;
+        }
+        .btn-custom:hover {
+            background-color: #615eff;
+            color: white;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200 flex justify-center items-center min-h-screen">
+    <div class="bg-gray-800 p-6 rounded-lg shadow-lg w-full max-w-lg">
+        <h2 class="text-2xl font-bold text-center mb-6">Login</h2>
+        
+        <div id="alertMessage" class="hidden p-4 mb-6 rounded border border-red-700 text-red-700 text-center font-semibold"></div>
+        
+        <form id="loginForm" class="space-y-4">
+            <div>
+                <label for="email" class="block text-sm font-medium mb-2">Email:</label>
+                <input type="email" id="email" class="w-full p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Enter your email" required>
+            </div>
+            <div>
+                <button type="button" id="sendOtpBtn" class="btn-custom w-full px-4 py-2 border font-bold rounded focus:outline-none focus:ring-2 disabled:opacity-50">Send OTP</button>
+                <button type="button" id="resendOtpBtn" class="btn-custom w-full px-4 py-2 border font-bold rounded focus:outline-none focus:ring-2 disabled:opacity-50 hidden">Resend OTP</button>
+            </div>
+            <div>
+                <label for="otp" class="block text-sm font-medium mb-2">OTP:</label>
+                <input type="text" id="otp" class="w-full p-2 rounded bg-gray-700 text-gray-200 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Enter the OTP" required>
+            </div>
+            <div>
+                <button type="button" id="verifyOtpBtn" class="btn-custom w-full px-4 py-2 border font-bold rounded focus:outline-none focus:ring-2 disabled:opacity-50">Verify OTP</button>
+            </div>
+            <div class="text-sm text-yellow-400" id="resendTimer"></div>
+        </form>
+        <a href="/register-page" class="block text-center text-blue-400 mt-4 hover:underline">Register</a>
+    </div>
+
+    <script>
+        const alertMessage = document.getElementById("alertMessage");
+
+        document.getElementById("sendOtpBtn").addEventListener("click", async () => {
+            const email = document.getElementById("email").value;
+            if (!email) {
+                showAlert("Please enter your email");
+                return;
+            }
+
+            const response = await fetch("/login/send-otp", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ email })
+            });
+
+            if (response.ok) {
+                showAlert("OTP sent to your email", "success");
+                document.getElementById("sendOtpBtn").classList.add("hidden");
+                document.getElementById("resendOtpBtn").classList.remove("hidden");
+                startResendTimer(60); // Disable resend button for 60 seconds
+            } else {
+                const data = await response.json();
+                showAlert(data.message);
+            }
+        });
+
+        document.getElementById("verifyOtpBtn").addEventListener("click", async () => {
+            const email = document.getElementById("email").value;
+            const otp = document.getElementById("otp").value;
+            if (!otp) {
+                showAlert("Please enter the OTP");
+                return;
+            }
+
+            const response = await fetch("/verify-otp", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ email, otp })
+            });
+
+            if (response.ok) {
+                window.location.href = "/";
+            } else {
+                showAlert("Invalid OTP");
+            }
+        });
+
+        document.getElementById("resendOtpBtn").addEventListener("click", async () => {
+            const email = document.getElementById("email").value;
+            if (!email) {
+                showAlert("Please enter your email");
+                return;
+            }
+
+            const response = await fetch("/login/send-otp", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ email })
+            });
+
+            if (response.ok) {
+                showAlert("OTP resent to your email", "success");
+                startResendTimer(60); // Disable resend button for 60 seconds
+            } else {
+                const data = await response.json();
+                showAlert(data.message);
+            }
+        });
+
+        function showAlert(message, type = "error") {
+            alertMessage.classList.remove("hidden");
+            alertMessage.textContent = message;
+            if (type === "success") {
+                alertMessage.classList.remove("border-red-700", "text-red-700");
+                alertMessage.classList.add("border-green-700", "text-green-700");
+            } else {
+                alertMessage.classList.remove("border-green-700", "text-green-700");
+                alertMessage.classList.add("border-red-700", "text-red-700");
+            }
+        }
+
+        function startResendTimer(seconds) {
+            let remainingTime = seconds;
+            const resendOtpBtn = document.getElementById("resendOtpBtn");
+            const resendTimer = document.getElementById("resendTimer");
+            resendOtpBtn.disabled = true;
+            const interval = setInterval(() => {
+                if (remainingTime > 0) {
+                    resendOtpBtn.textContent = `Resend OTP (${remainingTime--}s)`;
+                    resendTimer.textContent = `Resend OTP in ${remainingTime + 1} seconds`;
+                } else {
+                    clearInterval(interval);
+                    resendOtpBtn.textContent = "Resend OTP";
+                    resendOtpBtn.disabled = false;
+                    resendTimer.textContent = "";
+                }
+            }, 1000);
+        }
+    </script>
+</body>
+</html>
