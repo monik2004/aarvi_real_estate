@@ -309,23 +309,24 @@
 
             const images = property.propertyPhotos || [];
             let sliderImages = images.map((photo, i) =>
+                
                 `<img src="/uploads/${photo}" class="slider-image w-full h-64 object-cover rounded-lg ${i === 0 ? 'block' : 'hidden'}" data-index="${i}">`
             ).join("");
 
             // Add badge based on sellOrRent
             let badgeClass;
-            if (property.sellOrRent.toLowerCase() === 'sell') {
+            if (property.sellOrRent === 'sell' || property.sellOrRent === 'Sell') {
                 badgeClass = 'badge sell';
-            } else if (property.sellOrRent.toLowerCase() === 'rent') {
+            } else if (property.sellOrRent === 'rent' || property.sellOrRent === 'Rent') {
                 badgeClass = 'badge rent';
             } else {
                 badgeClass = '';
             }
 
             let badgeText;
-            if (property.sellOrRent.toLowerCase() === 'sell') {
+            if (property.sellOrRent === 'sell'  || property.sellOrRent === 'Sell') {
                 badgeText = 'For Sell';
-            } else if (property.sellOrRent.toLowerCase() === 'rent') {
+            } else if (property.sellOrRent === 'rent'   || property.sellOrRent === 'Rent') {
                 badgeText = 'For Rent';
             } else {
                 badgeClass = '';
